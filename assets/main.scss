@@ -1,4 +1,5 @@
 ---
+background: /assets/background.png | relative_url
 ---
 // Transfer some jekyll variables since we can't do that in files that we import
 $navigation_logo: {% if site.navigation_logo %} "{{ site.navigation_logo | relative_url }}" {% else %} "" {% endif %};
