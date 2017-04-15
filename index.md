@@ -92,7 +92,7 @@ features:
 {% capture scrollContent %}
 ## Vas te faire foutre, Valentin
 
-On avais fait quelque chose de grand, beau, magnifique et très sensuelle ensemble, et tu dois tout détruire, pourquoi ?????????
+On avais fait quelque chose de grand, beau, magnifique et très stupide ensemble, et tu dois tout détruire, pourquoi ?????????
 
 Oh hey coucou la personne a qui Valentin montre le site, ça vas ? Pour expliquer le mini-drama qu'il y a eu, l'ancienne version qui date d'il y a deux heures étais **GRANDIOSE**, avec pleins de trucs merveilleux, mais Valentin s'est dit que c'étais trop beau, et a demandé de tout remplacer par des trucs ennuyeux.
 
