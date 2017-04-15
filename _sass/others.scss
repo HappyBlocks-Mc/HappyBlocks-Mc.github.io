@@ -24,7 +24,7 @@ html, body {
 
 body {
 	color: #fff;
-	background: url("/assets/background.png")
+	background: url(#{$background})
 }
 
 a {
