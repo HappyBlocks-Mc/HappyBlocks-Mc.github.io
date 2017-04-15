@@ -54,38 +54,17 @@ navigation:
             link: /Credits/
 
 background:
-    - image: /img/Backgrounds/mercy01.jpg
-      bright: false
-
-    - image: /img/Backgrounds/mercy02.jpg
-      bright: false
-
-    - image: /img/Backgrounds/mercy03.jpg
+    - image: /img/Backgrounds/01.jpg
       bright: true
 
-    - image: /img/Backgrounds/mercy04.jpg
-      bright: false
-
-    - image: /img/Backgrounds/mercy05.jpg
-      bright: false
-
-    - image: /img/Backgrounds/mercy06.jpg
+    - image: /img/Backgrounds/02.jpg
       bright: true
 
-    - image: /img/Backgrounds/mercy07.jpg
+    - image: /img/Backgrounds/03.jpg
       bright: true
 
-    - image: /img/Backgrounds/mercy08.jpg
+    - image: /img/Backgrounds/04.jpg
       bright: true
-
-    - image: /img/Backgrounds/mercy09.jpg
-      bright: true
-
-    - image: /img/Backgrounds/mercy10.jpg
-      bright: true
-
-    - image: /img/Backgrounds/mercy11.jpg
-      bright: false
 
 background_speed: 10; # Vitesse du defilement du fond en seconde par image
 

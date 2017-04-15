@@ -5,7 +5,7 @@ diapo:
     text: Bienvenue sur le prototype de HappyBlocks Web 2.0
     subtext: "Le futur de lendemain du jour suivant... demain !"
     button:
-        text: "非常に癌性の"
+        text: "En savoir plus"
         link: "https://www.youtube.com/watch?v=7q50z0s7MOs"
         icon: "arrow-right-bold-hexagon-outline"
 
@@ -24,77 +24,79 @@ diapo:
   - image: img/Diapo/09.jpg
 
 games:
-  - image: img/Gay/gay01.png
-    text: "Lesbian Simulator: サンプルテキスト"
-    subtext: Yuri, yaoi et des raviolli ! ( ͡° ͜ʖ ͡°)
+  - image: img/Placeholder.jpg
+    text: Placeholder
+    subtext: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
     badge: Nouveau !
     link: "#!"
 
-  - image: img/Gay/gay02.png
-    text: Au tour de Pokémon
-    subtext: Okay, je devrais arréter
+  - image: img/Placeholder.jpg
+    text: Placeholder
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non odio quis arcu maximus aliquam.
     link: "#!"
 
-  - image: img/Gay/gay03.png
-    text: C'est Chara x Frisk
-    subtext: (oui, c'est pas hyper évident). Fun fact, j'ai littérallement rencontré quelqu'un avec cette photo en fond d'écran sur son portable.
+  - image: img/Placeholder.jpg
+    text: Placeholder
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget turpis dictum, auctor neque eu.
     link: "#!"
 
-  - image: img/Gay/gay04.jpg
-    text: Dragon Yuri
-    subtext: C'est surprenant, mais il y a pas beaucoups de fanarts de Kobayashi x Tohru, mais j'ai peut-être pas assez cherché
+  - image: img/Placeholder.jpg
+    text: Placeholder
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend rutrum laoreet. Morbi ac sagittis.
     badge: Bientôt disponible
     url: https://www.youtube.com/watch?v=ZMeg69665yU
     progress: 21%
 
-  - image: img/Gay/gay05.jpg
-    text: 20%
-    subtext: "Fun fact: On peut shipper n'importe quel mane 6 ensemble et sa marche"
+  - image: img/Placeholder.jpg
+    text: Sinon ça vas ?
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan, purus sed efficitur sodales, purus.
     link: "#!"
 
-  - image: img/Gay/etienne.png
-    text: Etienne
-    subtext: Des recherches approfondies ont prouvées que ceci est la dernière image que le cerveau reçoit avant la mort, cerais-ce dieu ?
+  - image: img/Placeholder.jpg
+    text: Placeholder
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed ex odio. Morbi aliquet sem.
     link: "#!"
 
 features:
   - icon: bell
-    text: Des cloches
+    text: Lorem ipsum dolor.
     subtext: Beaucoup de cloches
 
   - icon: cake
-    text: piece of kek
-    subtext: kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek kek
+    text: Lorem ipsum dolor.
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultrices nec dolor eget rhoncus. Duis.
 
   - icon: cat
-    text: Question existenciel
-    subtext: Si on encule une loli neko, c'est de la pédophilie ? ou de la zoophilie ?
+    text: Lorem ipsum dolor.
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac metus sit amet leo interdum.
 
   - icon: gender-transgender
-    text: Plus De Question
-    subtext: Les hentai futanari sont-t-ils gays ? Ou ethero ?
+    text: Lorem ipsum dolor.
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer maximus orci ipsum, a eleifend lectus.
 
   - icon: car
-    text: Attend, Pourquoi le FBI sont-ils devant ma porte ?
-    subtext: Ils viennent d'arriver, j'ai dit quelque chose qu'il fallais pas ?
+    text: Lorem ipsum dolor.
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus magna nec velit luctus, eget.
 
   - icon: emoticon-poop
-    text: Vous saviez qu'ils vont faire un film sur les emoticons ?
-    subtext: Genre, ça vas devenir le nouveau bee movie ou quoi
+    text: Lorem ipsum dolor.
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ornare nisl. Vivamus tempus mi.
 
   - icon: voice
-    text: Les aliens ont implantés une antenne dans ma tête
-    subtext: En tout cas c'est comme ça que j'interprète cette icone
+    text: Lorem ipsum dolor.
+    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse turpis lorem, vestibulum ac nisi nec.
 ---
 
 {% include diapo.html content=page.diapo %}
 
 {% capture scrollContent %}
-## Disclaimer
+## Vas te faire foutre, Valentin
 
-**Depuis que j'ai commencé a dev cette version d'HappyBlocks, j'ai un running gag où je met que des trucs pervers ou attardé comme faux contenue (images, textes, ect...). Donc s'il vous plait, prenez tout au serieux, c'est pas une phase, Maman.**
+On avais fait quelque chose de grand, beau, magnifique et très érotique ensemble, et tu dois tout détruire, pourquoi ?????????
 
-Et oui, la plupart de ces trucs sont même pas marrants.
+Oh hey coucou la personne a qui Valentin montre le site, ça vas ? Pour expliquer le mini-drama qu'il y a eu, l'ancienne version qui date d'il y a deux heures étais **GRANDIOSE**, avec pleins de trucs merveilleux, mais Valentin s'est dit que c'étais trop beau, et a demandé de tout remplacer par des trucs ennuyeux.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis est elit, ac finibus augue viverra quis. Nullam lacinia justo at enim venenatis, vitae fuck you valentin suscipit arcu porta. Aliquam at aliquam orci. Raviolli raviolli, don't lewd the dragon loli! Proin in ultrices risus, sit amet venenatis orci. Nullam ac faucibus libero. Pellentesque quis molestie velit. Aliquam tincidunt varius.
 
 ## A propos de HappyBlocks
 
@@ -105,7 +107,7 @@ Et comme vous pouvez jouer avec d'autres personnes, ou avec vos amis, vous n'êt
 
 Mais bien sûr, il existe des jeux qui peuvent êtres joués seuls, donc vous avez toujours la possibilité de amuser sur HappyBlocks.
 
-## ~~Mini-jeux~~ Ships disponibles
+## Mini-jeux disponibles
 
 {% include games.html content=page.games %}
 

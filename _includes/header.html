@@ -12,10 +12,10 @@
 		{% for page in site.navigation %}
 		{% if page.dropdown %}
 		 	<div class="page-link dropdown">
-				{{ page.text | escape }} &#x25BE;
+				{{ page.text | escape | replace: "launcher", "" }} &#x25BE;
 				<div class="dropdown-menu">
 					{% for dropdown in page.dropdown %}
-					<a class="dropdown-link" href="{% if dropdown.link %}{{ dropdown.link | relative_url }}{% else %}{{ dropdown.url | default: #! }}{% endif %}">{{ dropdown.text | escape }}</a>
+					<a class="dropdown-link" href="{% if dropdown.link %}{{ dropdown.link | relative_url }}{% else %}{{ dropdown.url | default: #! }}{% endif %}">{{ dropdown.text | escape | replace: "launcher", "" }}</a>
 					{% endfor %}
 				</div>
 			</div>
