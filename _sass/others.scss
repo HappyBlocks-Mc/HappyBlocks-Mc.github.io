@@ -24,7 +24,7 @@ html, body {
 
 body {
 	color: #fff;
-	background: url(#{$background})
+	background: #{$background};
 }
 
 a {
