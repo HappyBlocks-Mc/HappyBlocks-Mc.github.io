@@ -8,6 +8,8 @@
 	width: 100%;
 	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 	z-index: 10;
+	position: fixed;
+	top:0;
 
 	// Logo with flashy hover animation
 
@@ -128,13 +130,6 @@
 			}
 		}
 
-		#copy-text {
-			display: inline-block;
-			line-height: normal;
-			text-align: center;
-			vertical-align: middle;
-		}
-
 		.no-clipboard {
 			display: inline-block;
 			color: #FFD700;
@@ -210,4 +205,45 @@
 			display: block;
 		}
 	}
+}
+
+@keyframes popup-appear {
+	from {
+		top:85px;
+		opacity: 0;
+	}
+
+	to {
+		top: 100px;
+		opacity: 1;
+	}
+}
+
+#copy-text {
+	display: none;
+}
+
+#copy-text.visible {
+	display: inline-block;
+	line-height: normal;
+	text-align: center;
+	vertical-align: middle;
+	position: fixed;
+	z-index: 9;
+	width: 400px;
+	background: #333;
+	padding: 10px;
+	padding-top: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	top: 100px;
+	left: 50%;
+	margin-left: -200px;
+	animation-name: popup-appear;
+	animation-duration: 0.4s;
+	animation-timing-function: cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+#copy-text.hiding {
+	animation-direction: reverse;
 }

@@ -6,7 +6,6 @@
 	<a class="site-title" href="{{ "/" | relative_url}}"><span class="yellow">Happy</span><span class="grey">Blocks</span></a>
 
 	<nav class="nav">
-		<span id="copy-text"></span>
 		<div class="no-clipboard" data-clipboard-text="Mc.HappyBlocks.info" id="nav-copy-button">Mc.HappyBlocks.info</div>
 		<div class="split"></div>
 		{% for page in site.navigation %}
@@ -54,14 +53,33 @@
 		button.className = "button";
 		button.setAttribute("title", "Cliquez pour copier");
 
+		var popupIsOnScreen = false;
+
 		var clipboard = new Clipboard(button);
 		clipboard.on("success",  function () {
-			document.getElementById("copy-text").innerHTML = "Adresse du serveur copiée !<br>Utilisez Ctrl+V pour la coller dans Minecraft.";
+			if (!popupIsOnScreen) {
+				popupIsOnScreen = true;
 
-			window.setTimeout(function () {
-				document.getElementById("copy-text").innerHTML = "";
-			}, 3000);
+				document.getElementById("copy-text").className = "visible";
+
+				window.setTimeout(function () {
+					// Amazing and incomprehensible trick to make the css animation play again
+					document.getElementById("copy-text").className = ""
+					void document.getElementById("copy-text").offsetWidth;
+					document.getElementById("copy-text").className = "visible hiding";
+				}, 3000);
+
+				window.setTimeout(function () {
+					document.getElementById("copy-text").className = "";
+					popupIsOnScreen = false;
+				}, 3400);
+			}
 		})
 	}
 	</script>
 </header>
+
+<span id="copy-text">
+	Adresse du serveur copiée !<br>
+	Utilisez Ctrl+V pour la coller dans Minecraft.
+</span>
