@@ -58,7 +58,7 @@ games:
     text: Five Night's At Freddy's In Minecraft
     subtext: Le FNAF est un mini-jeu où vous incarnez un garde de nuit qui doit survivre à des horribles créatures !
 	badge: Terrifiant !
-	link: "link: "jeux/fnaf.md""
+	link: "jeux/fnaf.md"
 	
  - image: img/Vignettes/survie.png
     text: Survival
