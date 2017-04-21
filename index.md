@@ -24,38 +24,46 @@ diapo:
   - image: img/Diapo/09.jpg
 
 games:
-  - image: img/pvpsoup.png
+  - image: img/Vignettes/pvpsoup.png
     text: Pvp Soup
-    subtext: Le Pvp Soup est un Mini-jeu où l'on choisit un kit pour devenir le roi de l'arène !
+    subtext: Le Pvp Soup est un mini-jeu où l'on choisit un kit pour devenir le roi de l'arène !
     badge: Bataille Royale !
     link: "#!"
 
-  - image: img/Placeholder.jpg
-    text: Placeholder
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non odio quis arcu maximus aliquam.
-    link: "#!"
+  - image: img/Vignettes/créatif.png
+    text: Créatif
+    subtext: Le Créatif est un endroit où vous pouvez laisser libre cour à votre imagination et partager vos créations à vos amis !
+    badge: Imaginations !
+	link: "#!"
 
-  - image: img/Placeholder.jpg
-    text: Placeholder
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget turpis dictum, auctor neque eu.
-    link: "#!"
+  - image: img/Vignettes/skywars.png
+    text: SkyWars
+    subtext: Le SkyWars est un mini-jeu où vous devez prendre le contrôle des îles aux alentours et être le survivant de cette bataille !
+    badge: Comme Robinson Crusoé mais dans le ciel !
+	link: "#!"
 
-  - image: img/Placeholder.jpg
-    text: Placeholder
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend rutrum laoreet. Morbi ac sagittis.
-    badge: Bientôt disponible
-    url: https://www.youtube.com/watch?v=ZMeg69665yU
-    progress: 21%
+  - image: img/Vignettes/withermaze.png
+    text: WitherMaze
+    subtext: Le WitherMaze est un mini-jeu où vous devez trouver le centre du labyrinthe, tuer le Wither et revenir à votre entrée pour déposer l'étoile du Nether !
+    badge: Inédit !
+    progress: 60%
 
-  - image: img/Placeholder.jpg
-    text: Sinon ça vas ?
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan, purus sed efficitur sodales, purus.
-    link: "#!"
+  - image: img/Vignettes/faction.png
+    text: Faction
+    subtext: Le Faction est un jeu où vous pouvez créer votre armée de joueurs et conquérir toute la map pour devenir la meilleur Faction !
+	badge: À jouer en équipe !
+	link: "#!"
 
-  - image: img/Placeholder.jpg
-    text: Placeholder
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed ex odio. Morbi aliquet sem.
-    link: "#!"
+  - image: img/Vignettes/fnaf.png
+    text: Five Night's At Freddy's In Minecraft
+    subtext: Le FNAF est un mini-jeu où vous incarnez un garde de nuit qui doit survivre à des horribles créatures !
+	badge: Terrifiant !
+	link: "link: "jeux/fnaf.md""
+	
+ - image: img/Vignettes/survie.png
+    text: Survival
+    subtext: Le Survival est le principe de base de Minecraft , enrichissez-vous en exploitant les richesses de la terre !
+	badge: Minecraft Tout Simplement !
 
 features:
   - icon: bell
