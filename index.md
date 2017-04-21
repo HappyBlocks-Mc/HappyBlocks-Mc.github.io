@@ -24,10 +24,10 @@ diapo:
   - image: img/Diapo/09.jpg
 
 games:
-  - image: img/Placeholder.jpg
-    text: Placeholder
-    subtext: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    badge: Nouveau !
+  - image: img/pvpsoup.png
+    text: Pvp Soup
+    subtext: Le Pvp Soup est un Mini-jeu où l'on choisit un kit pour devenir le roi de l'arène !
+    badge: Bataille Royale !
     link: "#!"
 
   - image: img/Placeholder.jpg
