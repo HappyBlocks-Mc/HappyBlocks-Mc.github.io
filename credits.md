@@ -34,23 +34,22 @@ team:
         url: "https://www.facebook.com/profile.php?id=100010175804819"
         background: "#3b5998"
 
-
   - name: Squizzie
     desc: **Administrateur** du Serveur, travaille sur *Faction* et *Skyblock*
     link: "#!"
     image: img/Credits/squizzie.jpg
 
-    - name: Pizzacus
-      desc: Développeur du site
-      link: "#!"
-      image: img/Credits/pizzacus.jpg
-      button:
-        - icon: github-circle
-          url: "https://github.com/Pizzacus"
-          background: "#111"
-        - icon: steam
-          url: "https://steamcommunity.com/id/Pizzacus/"
-          background: "#000"
+  - name: Pizzacus
+    desc: Développeur du site
+    link: "#!"
+    image: img/Credits/pizzacus.jpg
+    button:
+      - icon: github-circle
+        url: "https://github.com/Pizzacus"
+        background: "#111"
+      - icon: steam
+        url: "https://steamcommunity.com/id/Pizzacus/"
+        background: "#000"
 
   - name: TrapTroll
     desc: Administrateur du serveur
@@ -93,7 +92,7 @@ team:
 {% include team.html content=page.team %}
 
 {% capture scrollContent %}
-HappyBlocks un serveur unique de partage et de convivialité
+HappyBlocks utilise les technologies suivantes:
 
 Police: [Ubuntu](http://font.ubuntu.com/) (Utilisée un peu partout et sur les versiones récentes du logo)
 
