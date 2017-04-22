@@ -66,33 +66,38 @@ games:
     badge: Minecraft Tout Simplement !
 
 features:
-  - icon: bell
-    text: Lorem ipsum dolor.
-    subtext: Beaucoup de cloches
+  - icon: calendar-today
+    text: L'actualité
+    subtext: L'avancement des mini-jeux sont décrits sur le site, allez y faire un petit tour !
 
-  - icon: cake
-    text: Lorem ipsum dolor.
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultrices nec dolor eget rhoncus. Duis.
+  - icon: shopping
+    text: Une Boutique
+    subtext: HappyBlocks dispose d'une boutique pour avoir de nombreux avantages à bas prix mais aussi d'une boutique de goodies. Idéal pour avoir des produits uniques et originaux au couleurs de votre serveur favori !
 
-  - icon: cat
-    text: Lorem ipsum dolor.
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac metus sit amet leo interdum.
+  - icon: message-text
+    text: Une communauté
+    subtext: HappyBlocks vous permettra de vous faire de nombreux amis, sur le serveur mais aussi sur le forum où la communauté est très active !
 
-  - icon: gender-transgender
-    text: Lorem ipsum dolor.
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer maximus orci ipsum, a eleifend lectus.
+  - icon: music-note
+    text: De la Musique
+    subtext: HappyBlocks vous permettra de découvrir de nombreux groupes ou compositeurs indépendant grâce à son système In Game !
 
-  - icon: car
-    text: Lorem ipsum dolor.
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus magna nec velit luctus, eget.
+  - icon: attachment
+    text: Open Source
+    subtext: Notre Site est open source, c'est à dire que vous pouvez l'utiliser comme bon vous semble par ailleurs, tous nos plugins sont cités dans la section crédits.
 
-  - icon: emoticon-poop
-    text: Lorem ipsum dolor.
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at ornare nisl. Vivamus tempus mi.
+  - icon: security
+    text: Sûr et Sécurisé
+    subtext: Nos serveurs sont régulièrement contrôlés et sont sécurisés, en cas de défaillance faites-le nous savoir sur le forum ou dans le jeu.
 
-  - icon: voice
-    text: Lorem ipsum dolor.
-    subtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse turpis lorem, vestibulum ac nisi nec.
+  - icon: youtube-play
+    text: Une Chaîne YouTube
+    subtext: Nous postons régulièrement des vidéos et n'hésitez pas à nous proposer les votre ! Nous les posterons avec plaisir !
+    link: "https://www.youtube.com/channel/UCWg0P5_BesetG-ov-H4wcXQ"
+
+  - icon: gamepad-variant
+    text: Venez nous rejoindre !
+    subtext: HappyBlocks est un serveur ouvert à tous !
 ---
 
 {% include diapo.html content=page.diapo %}
