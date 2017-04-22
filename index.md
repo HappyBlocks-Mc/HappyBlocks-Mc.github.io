@@ -30,7 +30,7 @@ games:
     badge: Bataille Royale !
     link: "#!"
 
-  - image: img/Vignettes/créatif.png
+  - image: img/Vignettes/creatif.png
     text: Créatif
     subtext: Le Créatif est un endroit où vous pouvez laisser libre cour à votre imagination et partager vos créations à vos amis !
     badge: Imaginations !
@@ -42,7 +42,7 @@ games:
     badge: Comme Robinson Crusoé mais dans le ciel !
     link: "#!"
 
-  - image: img/Vignettes/withermaze.png
+  - image: img/Vignettes/withermaze.jpg
     text: WitherMaze
     subtext: Le WitherMaze est un mini-jeu où vous devez trouver le centre du labyrinthe, tuer le Wither et revenir à votre entrée pour déposer l'étoile du Nether !
     badge: Inédit !
