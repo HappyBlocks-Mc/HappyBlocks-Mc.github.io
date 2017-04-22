@@ -34,13 +34,13 @@ games:
     text: Créatif
     subtext: Le Créatif est un endroit où vous pouvez laisser libre cour à votre imagination et partager vos créations à vos amis !
     badge: Imaginations !
-	link: "#!"
+    link: "#!"
 
   - image: img/Vignettes/skywars.png
     text: SkyWars
     subtext: Le SkyWars est un mini-jeu où vous devez prendre le contrôle des îles aux alentours et être le survivant de cette bataille !
     badge: Comme Robinson Crusoé mais dans le ciel !
-	link: "#!"
+    link: "#!"
 
   - image: img/Vignettes/withermaze.png
     text: WitherMaze
@@ -51,19 +51,19 @@ games:
   - image: img/Vignettes/faction.png
     text: Faction
     subtext: Le Faction est un jeu où vous pouvez créer votre armée de joueurs et conquérir toute la map pour devenir la meilleur Faction !
-	badge: À jouer en équipe !
-	link: "#!"
+    badge: À jouer en équipe !
+    link: "#!"
 
   - image: img/Vignettes/fnaf.png
     text: Five Night's At Freddy's In Minecraft
     subtext: Le FNAF est un mini-jeu où vous incarnez un garde de nuit qui doit survivre à des horribles créatures !
-	badge: Terrifiant !
-	link: "jeux/fnaf.md"
+    badge: Terrifiant !
+    link: "jeux/fnaf.md"
 	
  - image: img/Vignettes/survie.png
     text: Survival
     subtext: Le Survival est le principe de base de Minecraft , enrichissez-vous en exploitant les richesses de la terre !
-	badge: Minecraft Tout Simplement !
+    badge: Minecraft Tout Simplement !
 
 features:
   - icon: bell
