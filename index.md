@@ -59,7 +59,7 @@ games:
     subtext: Le FNAF est un mini-jeu où vous incarnez un garde de nuit qui doit survivre à des horribles créatures !
     badge: Terrifiant !
     link: "jeux/fnaf.md"
-	
+
  - image: img/Vignettes/survie.png
     text: Survival
     subtext: Le Survival est le principe de base de Minecraft , enrichissez-vous en exploitant les richesses de la terre !
