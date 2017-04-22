@@ -5,7 +5,7 @@ permalink: /Credits/
 
 team:
   - name: StoneSet
-    desc: Fondateur du serveur HappyBlocks *Crée les serveurs*
+    desc: Fondateur du serveur  *Crée les serveurs*
     link: "#!"
     image: img/Credits/stoneset.png
     button:
@@ -20,7 +20,7 @@ team:
         background: "#111"
 
   - name: Wabfall
-    desc: Fondateur du serveur HappyBlocks *Crée les serveurs*
+    desc: Fondateur du serveur  *Crée les serveurs*
     link: "#!"
     image: img/Credits/wabfall.jpg
     button:
@@ -36,12 +36,12 @@ team:
 
 
   - name: Squizzie
-    desc: **Administrateur** du Serveur HappyBlocks travaille sur *Faction* et *Skyblock*
+    desc: **Administrateur** du Serveur, travaille sur *Faction* et *Skyblock*
     link: "#!"
     image: img/Credits/squizzie.jpg
 
     - name: Pizzacus
-      desc: Développeur du site **Merci à lui**
+      desc: Développeur du site
       link: "#!"
       image: img/Credits/pizzacus.jpg
       button:
@@ -53,7 +53,7 @@ team:
           background: "#000"
 
   - name: TrapTroll
-    desc: Administrateur du serveur HappyBlocks
+    desc: Administrateur du serveur
     image: img/Credits/Traptroll.jpg
     button:
       - icon: youtube-play
@@ -62,7 +62,7 @@ team:
         background: "#e52d27"
 
   - name: AquaKill
-    desc: Modérateur principal du Serveur
+    desc: Modérateur du Serveur
     link: "#!"
     image: img/Credits/aquakill.jpg
     button:
@@ -71,7 +71,7 @@ team:
         background: "#e52d27"
 
   - name: Lukax
-    desc: Modérateur principal du Serveur
+    desc: Modérateur du Serveur
     link: "#!"
     image: img/Credits/lukax.jpg
 
