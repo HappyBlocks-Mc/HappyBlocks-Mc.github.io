@@ -6,7 +6,7 @@ diapo:
     subtext: "Le futur de lendemain du jour suivant... demain !"
     button:
         text: "En savoir plus"
-        link: "https://www.youtube.com/watch?v=7q50z0s7MOs"
+        link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
         icon: "arrow-right-bold-hexagon-outline"
 
   - image: img/Diapo/02.jpg
