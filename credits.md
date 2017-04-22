@@ -35,7 +35,7 @@ team:
         background: "#3b5998"
 
   - name: Squizzie
-    desc: **Administrateur** du Serveur, travaille sur *Faction* et *Skyblock*
+    desc: "**Administrateur** du Serveur, travaille sur *Faction* et *Skyblock*"
     link: "#!"
     image: img/Credits/squizzie.jpg
 
@@ -56,8 +56,7 @@ team:
     image: img/Credits/Traptroll.jpg
     button:
       - icon: youtube-play
-        url:
-        "https://www.youtube.com/channel/UCFjJxCxpLaTi_0sn9GQC12w"
+        url: "https://www.youtube.com/channel/UCFjJxCxpLaTi_0sn9GQC12w"
         background: "#e52d27"
 
   - name: AquaKill
