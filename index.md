@@ -98,13 +98,9 @@ features:
 {% include diapo.html content=page.diapo %}
 
 {% capture scrollContent %}
-## Vas te faire foutre, Valentin
+## AAAAAAAAaaaaaaaaaaAAAAAAAAAAAaaaaaa
 
-On avais fait quelque chose de grand, beau, magnifique et très stupide ensemble, et tu dois tout détruire, pourquoi ?????????
-
-Oh hey coucou la personne a qui Valentin montre le site, ça vas ? Pour expliquer le mini-drama qu'il y a eu, l'ancienne version qui date d'il y a deux heures étais **GRANDIOSE**, avec pleins de trucs merveilleux, mais Valentin s'est dit que c'étais trop beau, et a demandé de tout remplacer par des trucs ennuyeux.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis est elit, ac finibus augue viverra quis. Nullam lacinia justo at enim venenatis, vitae fuck you valentin suscipit arcu porta. Aliquam at aliquam orci. Raviolli raviolli, don't lewd the dragon loli! Proin in ultrices risus, sit amet venenatis orci. Nullam ac faucibus libero. Pellentesque quis molestie velit. Aliquam tincidunt varius.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis est elit, ac finibus augue viverra quis. Nullam lacinia justo at enim venenatis, vitae valentin suscipit arcu porta. Aliquam at aliquam orci. Raviolli raviolli, don't lewd the dragon loli! Proin in ultrices risus, sit amet venenatis orci. Nullam ac faucibus libero. Pellentesque quis molestie velit. Aliquam tincidunt varius.
 
 ## A propos de HappyBlocks
 
