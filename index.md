@@ -2,69 +2,127 @@
 layout: default
 diapo:
   - image: img/Diapo/01.jpg
-    text: Bienvenue sur le prototype de HappyBlocks Web 2.0
-    subtext: "Le futur de lendemain du jour suivant... demain !"
+    text: Bienvenue sur HappyBlocks !
+    subtext: "Serveurs Minecraft disposant de nombreux jeux !"                                                                              
+
+  - image: img/Diapo/02.png
+    text: PvP Soup
+    subtext: "L'arène 1 avec 4 différents biomes"
     button:
         text: "En savoir plus"
         link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
         icon: "arrow-right-bold-hexagon-outline"
 
-  - image: img/Diapo/02.jpg
-    text: Il **supporte** le _markdown_ pour mettre en page
-    subtext: C'est assez ~~improtant~~ important
+  - image: img/Diapo/03.png
+    text: Pvp Soup
+    subtext: "L'arène 2 vous emmène en forêt"
+    button:
+        text: "En savoir plus"
+        link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
+        icon: "arrow-right-bold-hexagon-outline"
 
-  - image: img/Diapo/03.jpg
-
-  - image: img/Diapo/04.jpg
-    text: On est pas obligé de mettre de sous-titre ou de titre
+  - image: img/Diapo/04.png
+    text: Créatif
+    button:
+        text: "En savoir plus"
+        link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
+        icon: "arrow-right-bold-hexagon-outline"
 
   - image: img/Diapo/05.jpg
-    text: Ajouter des photos est simple comme bonjour
+    text: SkyWars
+    subtext: "Le Spawn"
+    button:
+        text: "En savoir plus"
+        link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
+        icon: "arrow-right-bold-hexagon-outline"
 
-  - image: img/Diapo/09.jpg
+  - image: img/Diapo/06.png
+    text: SkyWars
+    subtext: "Arène Nether"
+    button:
+        text: "En savoir plus"
+        link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
+        icon: "arrow-right-bold-hexagon-outline"
+
+  - image: img/Diapo/07.png
+    text: SkyWars
+    subtext: "Arène Ender"
+    button:
+        text: "En savoir plus"
+        link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
+        icon: "arrow-right-bold-hexagon-outline"
+
+  - image: img/Diapo/08.jpg
+    text: WitherMaze
+    subtext: "Le Spawn"
+    button:
+        text: "En savoir plus"
+        link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
+        icon: "arrow-right-bold-hexagon-outline"
+
+  - image: img/Diapo/09.png
+    text: Faction
+    subtext: "Le Spawn"
+    button:
+        text: "En savoir plus"
+        link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
+        icon: "arrow-right-bold-hexagon-outline"
+
+  - image: img/Diapo/10.png
+    text: Five Night's At Freddy's
+    subtext: "Le Spawn"
+    button:
+        text: "En savoir plus"
+        link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
+        icon: "arrow-right-bold-hexagon-outline"
+
+  - image: img/Diapo/11.png
+    text: Survival
+    subtext: "Le Spawn"
+    button:
+        text: "En savoir plus"
+        link: "https://www.youtube.com/watch?v=xG0Ju_pUHAA"
+        icon: "arrow-right-bold-hexagon-outline"
 
 games:
   - image: img/Vignettes/pvpsoup.png
     text: Pvp Soup
-    subtext: Le Pvp Soup est un mini-jeu où l'on choisit un kit pour devenir le roi de l'arène !
+    subtext: "Choisissez un kit pour devenir le roi de l'arène !"
     badge: Bataille Royale !
     link: "#!"
 
   - image: img/Vignettes/creatif.png
     text: Créatif
-    subtext: Le Créatif est un endroit où vous pouvez laisser libre cour à votre imagination et partager vos créations à vos amis !
-    badge: Imaginations !
+    subtext: Laissez libre cour à votre imagination et partager vos créations à vos amis !
     link: "#!"
 
   - image: img/Vignettes/skywars.png
     text: SkyWars
-    subtext: Le SkyWars est un mini-jeu où vous devez prendre le contrôle des îles aux alentours et être le survivant de cette bataille !
-    badge: Comme Robinson Crusoé mais dans le ciel !
+    subtext: Prenez le contrôle des îles et restez en vie  !
     link: "#!"
 
   - image: img/Vignettes/withermaze.jpg
     text: WitherMaze
-    subtext: Le WitherMaze est un mini-jeu où vous devez trouver le centre du labyrinthe, tuer le Wither et revenir à votre entrée pour déposer l'étoile du Nether !
-    badge: Inédit !
+    subtext: Trouvez l'entrée de la grotte du Wither dans un labyrinthe et terrassez-le !
+    badge: Seulement sur HappyBlocks !
     progress: 60%
 
   - image: img/Vignettes/faction.png
     text: Faction
-    subtext: Le Faction est un jeu où vous pouvez créer votre armée de joueurs et conquérir toute la map pour devenir la meilleur Faction !
+    subtext: Créez votre armée de joueurs et conquérissez les territoires sur votre chemin pour devenir la meilleur faction !
     badge: À jouer en équipe !
     link: "#!"
 
   - image: img/Vignettes/fnaf.png
     text: Five Night's At Freddy's In Minecraft
-    subtext: Le FNAF est un mini-jeu où vous incarnez un garde de nuit qui doit survivre à des horribles créatures !
-    badge: Terrifiant !
-    link: jeux/fnaf.md
+    subtext: Cachez-vous face aux animatronics qui veulent votre peau !
+    badge: Seulement sur HappyBlocks !
+    link: "jeux/fnaf.md"
 
   - image: img/Vignettes/survie.png
     text: Survival
-    subtext: Le Survival est le principe de base de Minecraft , enrichissez-vous en exploitant les richesses de la terre !
-    badge: Minecraft Tout Simplement !
-
+    subtext: Le principe de base de Minecraft, devenez-le meilleur en exploitant les richesses de la terre !
+    link: "#!"
 features:
   - icon: calendar-today
     text: L'actualité
@@ -103,10 +161,6 @@ features:
 {% include diapo.html content=page.diapo %}
 
 {% capture scrollContent %}
-## AAAAAAAAaaaaaaaaaaAAAAAAAAAAAaaaaaa
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lobortis est elit, ac finibus augue viverra quis. Nullam lacinia justo at enim venenatis, vitae valentin suscipit arcu porta. Aliquam at aliquam orci. Raviolli raviolli, don't lewd the dragon loli! Proin in ultrices risus, sit amet venenatis orci. Nullam ac faucibus libero. Pellentesque quis molestie velit. Aliquam tincidunt varius.
-
 ## A propos de HappyBlocks
 
 *HappyBlocks* est un serveur mini-jeux pour le jeu Minecraft, où vous pouvez vous divertir avec d'autres personnes en jouant à divers Mini-jeux.
@@ -115,6 +169,13 @@ Nous avons 2 147 483 647 jeux pour tous les types de joueurs, vous êtes sûrs d
 Et comme vous pouvez jouer avec d'autres personnes, ou avec vos amis, vous n'êtes jamais vraiment seul, la convivialité est garentie !
 
 Mais bien sûr, il existe des jeux qui peuvent êtres joués seuls, donc vous avez toujours la possibilité de amuser sur HappyBlocks.
+
+## A propos
+
+HappyBlocks est un serveur Minecraft mini-jeux, acceptant tous les types de versions. Fonctionnant avec la plupart des versions Minecraft (entre la 1.8 et la 1.10 comprise).
+Notre but est de permettre à l'utilisateur de jouer sans limites, sans obligations d'achat, avec des jeux de qualité.
+
+
 
 ## Mini-jeux disponibles
 
