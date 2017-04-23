@@ -49,7 +49,7 @@ team:
 
   - name: TrapTroll
     desc: Administrateur du serveur
-    image: img/Credits/Traptroll.jpg
+    image: img/Credits/traptroll.png
     button:
       - icon: youtube-play
         url: "https://www.youtube.com/channel/UCFjJxCxpLaTi_0sn9GQC12w"
