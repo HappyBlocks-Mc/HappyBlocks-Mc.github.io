@@ -2,8 +2,8 @@
 	{% for game in include.content %}
 		<div class="game">
 			<img src="{{ game.image | relative_url }}" class="game-image"/>
-			<h2>{{ game.text | escape }}{% if game.badge %}<span class="game-badge">{{ game.badge }}</span>{% endif %}</h2>
-			<p>{{ game.subtext | escape }}</p>
+			<h2 class="game-text">{{ game.text | markdownify }}{% if game.badge %}<span class="game-badge">{{ game.badge }}</span>{% endif %}</h2>
+			<div class="game-subtext">{{ game.subtext | markdownify }}</div>
 
 			{% if game.link or game.url %}
 			<br><a href="{{ game.link | relative_url | default:game.url }}">En savoir plus</a>

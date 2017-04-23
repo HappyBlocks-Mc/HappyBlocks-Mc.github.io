@@ -19,15 +19,21 @@
 			width: 100%;
 		}
 
-		h2,
-		p,
+		p, strong {
+			display:inline-block;
+			margin: 0;
+			color: inherit;
+		}
+
+		.game-text,
+		.game-subtext,
 		a {
 			display: inline-block;
 			text-align: left;
 			padding: 0 16px;
 		}
 
-		h2 {
+		.game-text {
 			margin-top: 16px;
 			margin-bottom: 10px;
 			font-size: 24px;
@@ -45,7 +51,7 @@
 			}
 		}
 
-		p {
+		.game-subtext{
 			margin-bottom: 10px;
 			font-size: 14px;
 			color: rgba(0,0,0,0.54);

@@ -2,8 +2,8 @@
 	{% for member in include.content %}
 		<div class="member">
 			<img src="{{ member.image | relative_url }}" class="game-image"/>
-			<h2>{{ member.name | escape }}</h2>
-			<p>{{ member.desc | escape }}</p>
+			<h2>{{ member.name | markdownify }}</h2>
+			<p>{{ member.desc | markdownify }}</p>
 
 			{% if member.button %}
 			{% for button in member.button %}

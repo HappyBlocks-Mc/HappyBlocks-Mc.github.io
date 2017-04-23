@@ -5,8 +5,7 @@ permalink: /Credits/
 
 team:
   - name: StoneSet
-    desc: Fondateur du serveur  *Crée les serveurs*
-    link: "#!"
+    desc: "**Fondateur du serveur**"
     image: img/Credits/stoneset.png
     button:
       - icon: twitter
@@ -20,8 +19,7 @@ team:
         background: "#111"
 
   - name: Wabfall
-    desc: Fondateur du serveur  *Crée les serveurs*
-    link: "#!"
+    desc: "**Fondateur du serveur**, *WitherMaze*"
     image: img/Credits/wabfall.jpg
     button:
       - icon: twitter
@@ -35,14 +33,12 @@ team:
         background: "#3b5998"
 
   - name: Squizzie
-    desc: "**Administrateur** du Serveur, travaille sur *Faction* et *Skyblock*"
-    link: "#!"
+    desc: "**Administrateur du serveur**, *Faction* et *Skyblock*"
     image: img/Credits/squizzie.jpg
 
   - name: Pizzacus
-    desc: Développeur du site
-    link: "#!"
-    image: img/Credits/pizzacus.jpg
+    desc: Graphiste, développeur du site
+    image: img/Credits/pizzacus.png
     button:
       - icon: github-circle
         url: "https://github.com/Pizzacus"
@@ -61,7 +57,6 @@ team:
 
   - name: AquaKill
     desc: Modérateur du Serveur
-    link: "#!"
     image: img/Credits/aquakill.jpg
     button:
       - icon: youtube-play
@@ -70,12 +65,10 @@ team:
 
   - name: Lukax
     desc: Modérateur du Serveur
-    link: "#!"
     image: img/Credits/lukax.jpg
 
   - name: TineTine61
-    desc: Builder de HappyBlocks **Merci à lui pour le Fnaf**
-    link: "#!"
+    desc: Builder
     image: img/Credits/tinetine.png
     button:
       - icon: facebook
