@@ -42,7 +42,7 @@ navigation:
             url: mailto:answer@happyblocks.info
             
           - text: Vote
-            link: /Vote/
+            link: /Votes/
 
           - text: Dons
             link: /dons/
