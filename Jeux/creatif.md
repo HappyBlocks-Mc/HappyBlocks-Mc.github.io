@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Five Nights At Freddy's
-permalink: /Jeux/Fnaf/
+permalink: /Jeux/Creatif/
 dark: true
 
 diapo:
@@ -28,8 +28,8 @@ diapo:
   - image: /img/Diapo/09.jpg
 ---
 
-# Five Night At Freddy's
-### Affrontez des robots terrifiants ! Dans ce jeu effrayant mais drôlement amusant.
+# Créatif
+### Prochainement.
 
 {% include diapo.html small=true content=page.diapo %}
 
