@@ -173,11 +173,12 @@ features:
 
 *HappyBlocks* est un serveur mini-jeux pour le jeu Minecraft, où vous pouvez vous divertir avec d'autres personnes en jouant à divers Mini-jeux.
 
-Nous nous renouvelons sans cesse pour avoir des jeux originaux et de qualité,
+Nous nous renouvelons sans cesse pour avoir des jeux originaux et de qualité et nous voulons sans cesse nous améliorer c'est pour cela que nous avons besoin de vos avis !
+
+N'hésitez pas à nous dire ce que vous pensez du serveur ou si vous avez un problème sur le forum ou InGame ! Nous essaierons de le régler en vitesse !
 
 
-
-Et comme vous pouvez jouer avec d'autres personnes, ou avec vos amis, vous n'êtes jamais vraiment seul, la convivialité est garentie !
+Et comme vous pouvez jouer avec d'autres personnes, ou avec vos amis, vous n'êtes jamais vraiment seul, la convivialité est garantie !
 
 Mais bien sûr, il existe des jeux qui peuvent êtres joués seuls, donc vous avez toujours la possibilité de amuser sur HappyBlocks.
 
