@@ -28,10 +28,10 @@ navigation:
       link: /
 
     - text: Forum
-      link: http://forum.happyblocks.info
+      url: http://forum.happyblocks.info
 
     - text: Boutique
-      link: http://boutique.happyblocks.info/
+      url: http://boutique.happyblocks.info/
 
     - text: Stats
       url: http://stats.happyblocks.info/
