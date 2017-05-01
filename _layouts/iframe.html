@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{% include head.html %}
+
+<body>
+	<!--[if lt IE 9]>
+	{% include ie.html %}
+	<![endif]-->
+
+	{% include header.html sticky=true %}
+	<iframe class="fullscreen-iframe" src="{% if page.iframe_link %}{{ page.iframe_link | relative_url }}{% else %}{{ page.iframe_url | default: "#!" }}{% endif %}"></iframe>
+
+</body>
+
+</html>

@@ -1,5 +1,5 @@
 {% assign background = page.background | default: site.background %}
-<div class="background-container">
+<div id="background" class="background-container">
 	{% for slide in background %}
 	{% assign numberOfSlides = background | size %}
 	<div class="background" style="

@@ -39,7 +39,6 @@ a:visited {
 .button,
 .small-button {
 	display: inline-block;
-	padding: 16px 20px;
 	color: #fff !important;
 	background-color:#FFC700;
 	text-decoration: none;
@@ -48,17 +47,20 @@ a:visited {
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 	min-width: 88px;
 	text-align: center;
-	-webkit-transition: all 0.1s linear;
-	transition: all 0.1s linear;
+	-webkit-transition: all 0.2s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+	transition: all 0.2s cubic-bezier(0.18, 0.89, 0.32, 1.28);
 	line-height: normal;
-	margin: 0 5px;
 	cursor: pointer;
 	line-height: 14pt;
+	padding: 15px 20px;
+	margin: 10px 5px;
 }
 
 .button {
 	&:hover {
 		background: #FFCA28;
+		padding: 18px 24px;
+		margin: 7px 1px;
 	}
 
 	&:active {
@@ -77,12 +79,18 @@ a:visited {
 }
 
 .small-button {
-	padding: 7px 5px;
-	margin: 2px;
+	padding: 8px 6px;
+	margin: 4px;
 	width: auto;
 	box-shadow: none;
 	min-width: auto;
 	font-size: 18pt;
+
+	&:hover {
+		background: #FFCA28;
+		padding: 12px 9px;
+		margin: 0 1px;
+	}
 }
 
 .dark-block {
@@ -230,4 +238,16 @@ a:visited {
 			text-align: center;
 		}
 	}
+}
+
+.fullscreen-iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	border-style: none;
+	padding-top: 80px;
+	height: 100vh;
+	width: 100vw;
 }

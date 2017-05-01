@@ -11,6 +11,10 @@
 	position: fixed;
 	top:0;
 
+	&.sticky {
+		margin: 0;
+	}
+
 	// Logo with flashy hover animation
 
 	.site-logo {
