@@ -8,4 +8,4 @@ HappyBlocks is open-source !
 Just respect this license ...
 Thank you !
 
-https://creativecommons.org/licenses/by-nc/3.0/fr/
+https://www.gnu.org/licenses/gpl-3.0.fr.html
