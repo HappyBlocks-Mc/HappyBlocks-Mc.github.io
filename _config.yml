@@ -36,13 +36,13 @@ navigation:
     - text: Stats
       url: http://happyblocks.info/stats
 
+    - text: Vote
+      link: /vote/
+
     - text: Autre
       dropdown:
           - text: E-Mail
             url: mailto:answer@happyblocks.info
-            
-          - text: Vote
-            link: /vote/
 
           - text: Dons
             link: /dons/
