@@ -28,13 +28,13 @@ navigation:
       link: /
 
     - text: Forum
-      url: http://forum.happyblocks.info
+      url: http://happyblocks.info/forum
 
     - text: Boutique
-      url: http://boutique.happyblocks.info/
+      url: http://happyblocks.info/boutique
 
     - text: Stats
-      url: http://stats.happyblocks.info/
+      url: http://happyblocks.info/stats
 
     - text: Autre
       dropdown:
@@ -42,10 +42,13 @@ navigation:
             url: mailto:answer@happyblocks.info
             
           - text: Vote
-            link: /Votes/
+            link: /vote/
 
           - text: Dons
             link: /dons/
+
+          - text: Shop
+            link: /shop/
 
           - text: Discord
             url: http://discord.happyblocks.info/
