@@ -36,7 +36,7 @@ diapo:
 
 Ce jeu necessite un ressource pack pour y jouer
 
-{% include button.html link="" text="Cliquez ici pour le télécharger" icon="download" %}
+{% include button.html link="https://goo.gl/HWX9pj" text="Cliquez ici pour le télécharger" icon="download" %}
 
 [Cliquez ici](http://example.org) pour apprendre comment l'installer
 

@@ -88,8 +88,11 @@ HappyBlocks utilise les technologies suivantes:
 
 Police: [Ubuntu](http://font.ubuntu.com/) (Utilisée un peu partout et sur les versiones récentes du logo)
 
-Plugin serveur Minecraft:
- * [Les plugins seront listé plus tard !](#!)
+Plugins serveur Minecraft:
+ * [Plugins Lobby](/lobby) --> Aucun plugin de listé
+ * [Plugins Faction](/faction) --> Une partie des plugins listé
+ * [Plugins Opprison](/prison) --> Une partie des plugins listé
+ * [Plugins BungeeCord](/bungee) --> Une partie des plugins listé
 
 Technologies utilisées sur le site web:
  * [Jekyll](http://jekyllrb.com)

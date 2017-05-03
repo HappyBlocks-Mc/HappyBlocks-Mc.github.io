@@ -147,6 +147,12 @@ features:
   - icon: music-note
     text: De la Musique
     subtext: HappyBlocks vous permettra de découvrir de nombreux groupes ou compositeurs indépendant grâce à son système In Game !
+    link: "http://happyblocks.info/forum"
+
+  - icon: texture
+    text: Des textures pack custom
+    subtext: Pour jouer a FNAF dans les meilleurs condition !
+    link: "http://happyblocks.info/Jeux/Fnaf/"
 
   - icon: attachment
     text: Open Source
@@ -155,6 +161,11 @@ features:
   - icon: security
     text: Sûr et Sécurisé
     subtext: Nos serveurs sont régulièrement contrôlés et sont sécurisés, en cas de défaillance faites-le nous savoir sur le forum ou dans le jeu.
+
+  - icon: launch
+    text: Un launcher
+    subtext: Launcher créé par nous même pour profiter de HappyBlocks au maximum !
+    link: "http://happyblocks.info/launcher"
 
   - icon: youtube-play
     text: Une Chaîne YouTube
