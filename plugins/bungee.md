@@ -24,4 +24,4 @@ Liste des plugins utilisé :
 Version utilisé : Bungeecord 1.10.2
 ---> Téléchargement du build : http://goo.gl/80WvxL/ (Téléchargment à partir de nos serveurs FTP)
 
-**/!\ Cette version ne serat bientôt plus utilisée car nous allons créer un build custom basé sur BungeeCord, nous vous fournirons pas les sources, ni de lien de téléchargement. Et au fur et à mesure les plugins seront créés par nous même, donc la liste ne sera plus mis a jour.
+**/!\ Cette version ne serat bientôt plus utilisée car nous allons créer un build custom basé sur BungeeCord, nous vous fournirons pas les sources, ni de lien de téléchargement. Et au fur et à mesure les plugins seront créés par nous même, donc la liste ne seras plus mis a jour.**

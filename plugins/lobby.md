@@ -15,4 +15,4 @@ ALERTE : Les plugins utilisés ne seront listés en aucun cas pour des raisons d
 
 ---> Rien en téléchargement pour l'instant, et pour toujours :D
 
-**/!\ Si vous avez des demandes à faire, faites les à cette adresse : answer@happyblocks.info, le WitherMaze et le FNAF sont disponibles QUE sur HappyBlocks et doivent rester QUE sur HappyBlocks, c'est pour cela que nous vous communiquerons pas les sources. Les mini-jeux en questions ne peuvent être reproduit sur d'autres serveurs, même sous un nom différent, ou un plugin différent.
+**/!\ Si vous avez des demandes à faire, faites les à cette adresse : answer@happyblocks.info, le WitherMaze et le FNAF sont disponibles QUE sur HappyBlocks et doivent rester QUE sur HappyBlocks, c'est pour cela que nous vous communiquerons pas les sources. Les mini-jeux en questions ne peuvent être reproduit sur d'autres serveurs, même sous un nom différent, ou un plugin différent.**
