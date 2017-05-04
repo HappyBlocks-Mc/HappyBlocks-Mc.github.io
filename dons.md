@@ -5,7 +5,7 @@ permalink: /dons/
 dark: true
 ---
 
-** Pour que HappyBlocks existe, nous engageons beaucoup de moyen financié, nous existons grâce aux dons, la pub, et notre boutique. Si vous faites un don vous contribuez a la prolongation HappyBlocks !**
+**Pour que HappyBlocks existe, nous engageons beaucoup de moyen financié, nous existons grâce aux dons, la pub, et notre boutique. Si vous faites un don vous contribuez a la prolongation HappyBlocks !**
 
 
 ## Si vous souhaitez aussi nous aider, voici quelques moyens :
