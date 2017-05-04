@@ -5,10 +5,10 @@ permalink: /dons/
 dark: true
 ---
 
-# Pour que HappyBlocks existe, nous engageons beaucoup de moyen financié, nous existons grâce aux dons, la pub, et notre boutique. Si vous faites un don vous contribuez a la prolongation HappyBlocks !
+** Pour que HappyBlocks existe, nous engageons beaucoup de moyen financié, nous existons grâce aux dons, la pub, et notre boutique. Si vous faites un don vous contribuez a la prolongation HappyBlocks !**
 
 
-## Si vous souhaité aussi nous aider, voici quelques moyens :
+## Si vous souhaitez aussi nous aider, voici quelques moyens :
 
  1. La page Tipeee :  **https://www.tipeee.com/happyblocks**
  2. **Toutes les boutiques HappyBlocks ! (Grades, cosmetiques etc)**
