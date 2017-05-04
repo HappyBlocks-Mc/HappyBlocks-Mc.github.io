@@ -14,7 +14,7 @@ dark: true
  2. **Toutes les boutiques HappyBlocks ! (Grades, cosmetiques etc)**
  3. Par Paypal : **answer@happyblocks.info**
 
-## Remerciement des personnes pour les dons :
+## Remerciements :
 
 - Josue61 =  10€ Le 13/01/17 ---> Nous a permis d'acheter le strict minimum pour une convention ! (Cartes de visites, etc)
 - TrapTroll = 20€ Le 26/04/17 ---> Nous a permis de renouveler un serveur pendant un mois !
