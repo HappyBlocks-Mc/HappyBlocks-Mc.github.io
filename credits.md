@@ -32,6 +32,14 @@ team:
         url: "https://www.facebook.com/profile.php?id=100010175804819"
         background: "#3b5998"
 
+  - name: Eldras
+    desc: "**Admin du serveur**"
+    image: img/Credits/Eldras.png
+    button:
+      - icon: youtube-play
+        url: "https://www.youtube.com/channel/UCwezbasw1Ex9eFPaioIkKDg"
+        background: "#e52d27"
+
   - name: Squizzie
     desc: "**Administrateur du serveur**, *Faction* et *Skyblock*"
     image: img/Credits/squizzie.jpg
