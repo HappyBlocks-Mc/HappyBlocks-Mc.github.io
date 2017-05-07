@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+#Best config ever
 title: HappyBlocks
 email: answer@happyblocks.info
 description: Venez rejoindre HappyBlocks, une qualité exceptionnel de mini-jeux !
@@ -47,7 +48,7 @@ navigation:
           - text: Dons
             link: /dons/
 
-          - text: Shop
+          - text: T-Shirt
             link: /shop/
 
           - text: Discord
