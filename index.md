@@ -69,6 +69,14 @@ diapo:
         link: "/Jeux/WitherMaze/"
         icon: "arrow-right-bold-hexagon-outline"
 
+  - image: img/Diapo/12.png
+    text: Speedrun
+    subtext: "Courez le plus vite possible !"
+    button:
+        text: "En savoir plus"
+        link: "/Jeux/speedrun/"
+        icon: "arrow-right-bold-hexagon-outline"
+
   - image: img/Diapo/09.png
     text: Faction
     subtext: "C'est ici que tous les joueurs débutent et échangent pour devenir la meilleur faction !"
@@ -115,6 +123,13 @@ games:
     badge: Seulement sur HappyBlocks !
     progress: 60%
     link: /Jeux/WitherMaze/
+
+  - image: img/Vignettes/speedrun.png
+    text: Speedrun
+    subtext: Courez le plus vite possible ! !
+    badge: Seulement sur HappyBlocks !
+    progress: 70%
+    link: /Jeux/Speedrun/
 
   - image: img/Vignettes/faction.png
     text: Faction
