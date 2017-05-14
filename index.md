@@ -94,11 +94,11 @@ diapo:
         icon: "arrow-right-bold-hexagon-outline"
 
   - image: img/Diapo/11.png
-    text: Survival
+    text: Paintball
     subtext: "Retournez à l'origine de Minecraft pour jouer avec vos amis en Vanilla !"
     button:
         text: "En savoir plus"
-        link: "/Jeux/Survival/"
+        link: "/Jeux/Paintball/"
         icon: "arrow-right-bold-hexagon-outline"
 
 games:
@@ -142,10 +142,10 @@ games:
     badge: Seulement sur HappyBlocks !
     link: "/Jeux/Fnaf/"
 
-  - image: img/Vignettes/survie.png
-    text: Survival
+  - image: img/Vignettes/paintball.png
+    text: Paintball
     subtext: Faîtes un retour aux sources de Minecraft avec vos amis ! Construisez votre base et protégez-vous des autres joueurs qui veulent prendre tout ce que vous appartient !
-    link: "/Jeux/Survival/"
+    link: "/Jeux/Paintball/"
 features:
   - icon: calendar-today
     text: L'actualité

@@ -55,14 +55,6 @@ team:
         url: "https://steamcommunity.com/id/Pizzacus/"
         background: "#000"
 
-  - name: TrapTroll
-    desc: Administrateur du serveur
-    image: img/Credits/traptroll.png
-    button:
-      - icon: youtube-play
-        url: "https://www.youtube.com/channel/UCFjJxCxpLaTi_0sn9GQC12w"
-        background: "#e52d27"
-
   - name: AquaKill
     desc: Modérateur du Serveur
     image: img/Credits/aquakill.jpg
