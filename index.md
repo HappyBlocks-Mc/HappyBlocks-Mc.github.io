@@ -3,7 +3,31 @@ layout: default
 diapo:
   - image: img/Diapo/01.png
     text: Bienvenue sur HappyBlocks !
-    subtext: "Serveurs Minecraft disposant de nombreux jeux !"                                                                              
+    subtext: "Serveurs Minecraft disposant de nombreux jeux !"           
+
+  - image: img/Diapo/P1.png
+    text: Paintball
+    subtext: "Retournez à l'origine de Minecraft pour jouer avec vos amis en Vanilla !"
+    button:
+        text: "En savoir plus"
+        link: "/Jeux/Paintball/"
+        icon: "arrow-right-bold-hexagon-outline"
+
+  - image: img/Diapo/12.png
+    text: Speedrun
+    subtext: "Courez le plus vite possible !"
+    button:
+        text: "En savoir plus"
+        link: "/Jeux/speedrun/"
+        icon: "arrow-right-bold-hexagon-outline"
+
+  - image: img/Diapo/10.png
+    text: Five Night's At Freddy's
+    subtext: "Venez vous confrontez aux pires robots qu'on est jamais créé !"
+    button:
+        text: "En savoir plus"
+        link: "/Jeux/Fnaf/"
+        icon: "arrow-right-bold-hexagon-outline"
 
   - image: img/Diapo/02.png
     text: PvP Soup
@@ -69,14 +93,6 @@ diapo:
         link: "/Jeux/WitherMaze/"
         icon: "arrow-right-bold-hexagon-outline"
 
-  - image: img/Diapo/12.png
-    text: Speedrun
-    subtext: "Courez le plus vite possible !"
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/speedrun/"
-        icon: "arrow-right-bold-hexagon-outline"
-
   - image: img/Diapo/09.png
     text: Faction
     subtext: "C'est ici que tous les joueurs débutent et échangent pour devenir la meilleur faction !"
@@ -84,23 +100,6 @@ diapo:
         text: "En savoir plus"
         link: "/Jeux/Faction/"
         icon: "arrow-right-bold-hexagon-outline"
-
-  - image: img/Diapo/10.png
-    text: Five Night's At Freddy's
-    subtext: "Venez vous confrontez aux pires robots qu'on est jamais créé !"
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/Fnaf/"
-        icon: "arrow-right-bold-hexagon-outline"
-
-  - image: img/Diapo/11.png
-    text: Paintball
-    subtext: "Retournez à l'origine de Minecraft pour jouer avec vos amis en Vanilla !"
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/Paintball/"
-        icon: "arrow-right-bold-hexagon-outline"
-
 games:
   - image: img/Vignettes/pvpsoup.png
     text: PvP Soup
@@ -124,7 +123,7 @@ games:
     progress: 60%
     link: /Jeux/WitherMaze/
 
-  - image: img/Vignettes/speedrun.png
+  - image: img/Vignettes/SR2.png
     text: Speedrun
     subtext: Courez le plus vite possible ! !
     badge: Seulement sur HappyBlocks !
@@ -142,8 +141,9 @@ games:
     badge: Seulement sur HappyBlocks !
     link: "/Jeux/Fnaf/"
 
-  - image: img/Vignettes/paintball.png
+  - image: img/Vignettes/P1.png
     text: Paintball
+    badge: Seulement sur HappyBlocks !
     subtext: Faîtes un retour aux sources de Minecraft avec vos amis ! Construisez votre base et protégez-vous des autres joueurs qui veulent prendre tout ce que vous appartient !
     link: "/Jeux/Paintball/"
 features:
