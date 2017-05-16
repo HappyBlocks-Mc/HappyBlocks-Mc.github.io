@@ -18,7 +18,7 @@ diapo:
     subtext: "Courez le plus vite possible !"
     button:
         text: "En savoir plus"
-        link: "/Jeux/speedrun/"
+        link: "/Jeux/Speedrun/"
         icon: "arrow-right-bold-hexagon-outline"
 
   - image: img/Diapo/10.png
