@@ -9,6 +9,7 @@ dark: true
 
 # Choisissez votre serveur pour voter :
 
+
  1. **Faction** :
  {% include button.html link="http://facvote.happyblocks.info" text="Faction" icon="sword" %}
  2. **Lobby** :
@@ -22,6 +23,7 @@ dark: true
 
 **Lobby / Faction / Opprison**
  1. x1 Clé Vote (Ourvir le coffre "Vote" qui se trouve au spawn)
+
 
 # Comment voter ?
 
