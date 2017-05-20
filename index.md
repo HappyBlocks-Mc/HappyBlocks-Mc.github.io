@@ -125,10 +125,17 @@ games:
 
   - image: img/Vignettes/SR2.png
     text: Speedrun
-    subtext: Courez le plus vite possible ! !
+    subtext: Courez le plus vite possible !
     badge: Seulement sur HappyBlocks !
     progress: 70%
     link: /Jeux/Speedrun/
+
+  - image: img/Vignettes/op.png
+    text: Opprison
+    subtext: Achetez votre liberté !
+    badge: Mines inédites !
+    progress: 25%
+    link: /Jeux/Opprison/
 
   - image: img/Vignettes/faction.png
     text: Faction
@@ -212,7 +219,7 @@ Mais bien sûr, il existe des jeux qui peuvent êtres joués seuls, donc vous av
 
 Nous venons d'acheter un serveur illimité pendant 1 mois pour permettre à tout les joueurs de venir ensemble sur le faction,
 nous comptons sur votre générosité pour permettre de pourvoir y jouer toute l'année ! Allez faire un tour sur la boutique des grades
-et des goodies, je suis sûr que vous trouverez votre bonheur !
+et des goodies, je suis sûr que vous trouverez votre bonheur ! En savoir plus ? Cliquez pour voir le changelog ! --> https://goo.gl/YtHkyS
 
 
 

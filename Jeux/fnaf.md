@@ -5,27 +5,23 @@ permalink: /Jeux/Fnaf/
 dark: true
 
 diapo:
-  - image: /img/Gabriel_thumbs_up.png
-    text: Diapo plus compact
-    subtext: Genre, c'est 75% de la taille normal
+  - image: /img/Diapo/FNAF/03.jpg
+    text: Seulement sur HappyBlocks
     button:
-        text: "非常に癌性の"
-        link: "https://www.youtube.com/watch?v=7q50z0s7MOs"
+        text: "Présentation en vidéo"
+        link: "https://www.youtube.com/watch?v=P5rQAejy_QQ"
         icon: "arrow-right-bold-hexagon-outline"
 
-  - image: /img/Diapo/02.jpg
-    text: Il **supporte** le _markdown_ pour mettre en page
-    subtext: C'est assez ~~improtant~~ important
+  - image: /img/Diapo/FNAF/03.jpg
+    text: Des maps ultra réelle
+    subtext: Qui respecte les vrai jeux à 100%
 
-  - image: /img/Diapo/03.jpg
+  - image: /img/Diapo/FNAF/03.jpg
+    text: Avec des musiques !
 
-  - image: /img/Diapo/04.jpg
-    text: On est pas obligé de mettre de sous-titre ou de titre
+  - image: /img/Diapo/FNAF/03.jpg
 
-  - image: /img/Diapo/05.jpg
-    text: Ajouter des photos est simple comme bonjour
-
-  - image: /img/Diapo/09.jpg
+  - image: /img/Diapo/FNAF/03.jpg
 ---
 
 # Five Night At Freddy's
@@ -38,7 +34,7 @@ Ce jeu necessite un ressource pack pour y jouer
 
 {% include button.html link="https://goo.gl/HWX9pj" text="Cliquez ici pour le télécharger" icon="download" %}
 
-[Cliquez ici](http://example.org) pour apprendre comment l'installer
+[Cliquez ici](http://minecraft-fr.gamepedia.com/Tutoriels/Packs_de_ressources#Windows) pour apprendre comment l'installer
 
 ## A propos du jeu
 
@@ -52,4 +48,4 @@ Dans le second, plus de portes ! Les robots entre a leur grés, mais vous pouvez
 
 Dans le troisième, vous n'avez a lutter que contre un seul robot, mais le faire ne seras pas aussi facile que vous pensez, car il est terriblement redoutable, vous avez aussi de l'équipement qui ne marche pas très bien et vous feras souvant obstacle dans votre quête pour survivre.
 
-Dans le quatrième, vous incarnez un enfant en plein cauchemar, vous devrez affrounter les robots nez a nez, et ils sont plus teriffiant que jamais ! Mais je sais pas trop ce qu'on doit faire, Valentin, aide moi a écrire ce paragraphe.
+Dans le quatrième, vous incarnez un enfant en plein cauchemar, vous devrez affrounter les robots nez a nez, et ils sont plus teriffiant que jamais !

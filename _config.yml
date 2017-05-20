@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #Best config ever
-title: HappyBlocks
+title: HappyBlocks - Serveur minecraft
 email: answer@happyblocks.info
 description: Venez rejoindre HappyBlocks, une qualité exceptionnel de mini-jeux !
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://happyblocks.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BlocksHappy
 github_username: stoneset
 

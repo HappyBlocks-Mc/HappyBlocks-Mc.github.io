@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Speedrun
+title: Speedrun - HappyBlocks
 permalink: /Jeux/Speedrun/
 dark: true
 
@@ -30,7 +30,8 @@ diapo:
 ---
 
 # SpeedRun
-### Ouverture le week-end prochain !
+## Seulement sur HappyBlocks
+### En beta-test
 
 {% include diapo.html small=true content=page.diapo %}
 
@@ -41,11 +42,11 @@ Sonic en Ultra-Vitesse !
 
 Les circuits sont courts, c'est idéal pour jouer quand quand vous n'avez beaucoup de temps !
 
-## Les Records
+## Les Records :
 
-Parcour Mario : StoneSetMC  --->  26 secondes
+Parcour Mario : StoneSetMC  --->  46 secondes
 
-Parcour Nyan-Cat : StoneSetMC --->  22 secondes
+Parcour Nyan-Cat : StoneSetMC --->  26 secondes
 
 Parcour Sonic : En Constructions
 
