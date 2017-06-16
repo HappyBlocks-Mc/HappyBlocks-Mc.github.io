@@ -25,9 +25,9 @@
 	</nav>
 
 	<nav class="nav-mobile">
-		<div class="page-link dropdown">
+		<div id="mobile-nav-button" class="page-link dropdown">
 			<i class="mdi mdi-menu"></i>
-			<div class="dropdown-menu">
+			<div id="mobile-dropdown" class="dropdown-menu">
 				{% for page in site.navigation %}
 					{% if page.dropdown %}
 						<div class="dropdown-link dropdown">

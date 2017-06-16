@@ -1,3 +1,18 @@
+// <3 Mozilla https://developer.mozilla.org/en-US/docs/Web/API/Element/closest
+if (window.Element && !Element.prototype.closest) {
+    Element.prototype.closest =
+    function(s) {
+        var matches = (this.document || this.ownerDocument).querySelectorAll(s),
+            i,
+            el = this;
+        do {
+            i = matches.length;
+            while (--i >= 0 && matches.item(i) !== el) {};
+        } while ((i < 0) && (el = el.parentElement));
+        return el;
+    };
+}
+
 function changeSlide(slideshowID,slideName) {
 	var slideshowContainer = document.getElementById("slideshow-" + slideshowID + "-container");
 	var shownSlide = slideshowContainer.getElementsByClassName("shown")[0];
@@ -64,3 +79,16 @@ function updateBackground() {
 };
 
 window.requestAnimationFrame(updateBackground);
+
+document.onclick = function(e) {
+	var dropdownParent = e.target.closest(".dropdown");
+
+	if(dropdownParent && !e.target.closest(".dropdown-menu .dropdown-link:not(.dropdown)")) {
+		dropdownParent.querySelector(".dropdown-menu").classList.toggle("displayed");
+	} else {
+		document.getElementById("mobile-dropdown").classList.remove("displayed");
+		while(document.getElementById("mobile-dropdown").querySelector(".displayed")) {
+			document.getElementById("mobile-dropdown").querySelector(".displayed").classList.remove("displayed");
+		}
+	}
+}
