@@ -5,6 +5,10 @@
 		<div>
 			<h2>{{ feature.text | markdownify }}</h2>
 			<p>{{ feature.subtext | markdownify }}</p>
+
+			{% if feature.link %}
+			<a class="feature-button" href="{{ feature.link }}">{{ feature.button | default: "En Savoir Plus" }}</a>
+			{% endif %}
 		</div>
 	</div>
 	{% endfor %}
