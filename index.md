@@ -130,13 +130,6 @@ games:
     progress: 70%
     link: /Jeux/Speedrun/
 
-  - image: img/Vignettes/op.jpg
-    text: Opprison
-    subtext: Achetez votre liberté !
-    badge: Mines inédites !
-    progress: 25%
-    link: /Jeux/Opprison/
-
   - image: img/Vignettes/faction.jpg
     text: Faction
     subtext: Créez votre armée de joueurs et conquérissez les territoires sur votre chemin pour devenir la meilleur faction !
