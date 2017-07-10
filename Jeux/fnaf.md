@@ -5,23 +5,25 @@ permalink: /Jeux/Fnaf/
 dark: true
 
 diapo:
-  - image: /img/Diapo/FNAF/03.jpg
+  - image: /img/Diapo/FNAF/01.jpg
     text: Seulement sur HappyBlocks
     button:
         text: "Présentation en vidéo"
         link: "https://www.youtube.com/watch?v=P5rQAejy_QQ"
         icon: "arrow-right-bold-hexagon-outline"
 
-  - image: /img/Diapo/FNAF/03.jpg
+  - image: /img/Diapo/FNAF/04.jpg
     text: Des maps ultra réelle
     subtext: Qui respecte les vrai jeux à 100%
 
   - image: /img/Diapo/FNAF/03.jpg
-    text: Avec des musiques !
+    text: Une ambiance horrifique dans Minecraft !
 
-  - image: /img/Diapo/FNAF/03.jpg
+  - image: /img/Diapo/FNAF/05.jpg
+    text: Un spawn avec plein d'options !
 
-  - image: /img/Diapo/FNAF/03.jpg
+  - image: /img/Diapo/FNAF/02.jpg
+    text: Textures custom pour une meilleur expérience de jeu !
 ---
 
 # Five Night At Freddy's

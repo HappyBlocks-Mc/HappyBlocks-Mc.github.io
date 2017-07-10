@@ -7,7 +7,7 @@ diapo:
 
   - image: img/Diapo/P1.jpg
     text: Paintball
-    subtext: "Retournez à l'origine de Minecraft pour jouer avec vos amis en Vanilla !"
+    subtext: "Attaquez vos amis avec des boules de neige !"
     button:
         text: "En savoir plus"
         link: "/Jeux/Paintball/"
@@ -144,7 +144,7 @@ games:
   - image: img/Vignettes/P1.jpg
     text: Paintball
     badge: Seulement sur HappyBlocks !
-    subtext: Faîtes un retour aux sources de Minecraft avec vos amis ! Construisez votre base et protégez-vous des autres joueurs qui veulent prendre tout ce que vous appartient !
+    subtext: Vous aimez le cache-cache ? Et bien ce jeu est fait pour vous ! Lancez des boules de neige sur les joueurs !
     link: "/Jeux/Paintball/"
 features:
   - icon: calendar-today
@@ -158,11 +158,11 @@ features:
   - icon: message-text
     text: Une communauté
     subtext: HappyBlocks vous permettra de vous faire de nombreux amis, sur le serveur mais aussi sur le forum où la communauté est très active !
+    link: "http://happyblocks.info/forum"
 
   - icon: music-note
     text: De la Musique
-    subtext: HappyBlocks vous permettra de découvrir de nombreux groupes ou compositeurs indépendant grâce à son système In Game !
-    link: "http://happyblocks.info/forum"
+    subtext: HappyBlocks vous permettra de découvrir de nombreux groupes ou compositeurs indépendant grâce à son système In Game ! (Il y aura aussi des musiques composées par nous même !)
 
   - icon: texture
     text: Des textures pack custom
@@ -171,7 +171,8 @@ features:
 
   - icon: attachment
     text: Open Source
-    subtext: Notre Site est open source, c'est à dire que vous pouvez l'utiliser comme bon vous semble par ailleurs, tous nos plugins sont cités dans la section crédits.
+    subtext: Notre Site est open source, c'est à dire que vous pouvez l'utiliser comme bon vous semble par ailleurs, la plupart de nos plugins sont cités dans la section crédits.
+    link: "https://github.com/HappyBlocks-Mc/HappyBlocks-Mc.github.io"
 
   - icon: security
     text: Sûr et Sécurisé
@@ -179,7 +180,7 @@ features:
 
   - icon: launch
     text: Un launcher
-    subtext: Launcher créé par nous même pour profiter de HappyBlocks au maximum !
+    subtext: Launcher créé par nous même pour profiter de HappyBlocks au maximum ! Souvent mis a jour !
     link: "http://happyblocks.info/launcher"
 
   - icon: youtube-play
@@ -210,9 +211,29 @@ Mais bien sûr, il existe des jeux qui peuvent êtres joués seuls, donc vous av
 
 ## Informations & Actualités
 
-Nous venons d'acheter un serveur illimité pendant 1 mois pour permettre à tout les joueurs de venir ensemble sur le faction,
-nous comptons sur votre générosité pour permettre de pourvoir y jouer toute l'année ! Allez faire un tour sur la boutique des grades
-et des goodies, je suis sûr que vous trouverez votre bonheur ! En savoir plus ? Cliquez pour voir le changelog ! --> https://goo.gl/YtHkyS
+**Le serveur faction est mort pour cause de manque de fond...**
+
+
+Nous avons organiser une GRANDE vente de t-shirt pour générer des fonds :
+Cela va permettre de fermer HappyBlocks, pour commencer la V2 de HappyBlocks,
+vous pouvez voir ici les modifications qui vont être effectuées :
+
+
+--> [Changelog](https://goo.gl/YtHkyS)
+
+
+Le nombre de nouveaux joueurs reste stable depuis un mois (1 tous les deux jours),
+ce qui n'est pas assez pour permettre la survie de votre serveur, dans ce cas là,
+faites un maximum de pub pour nous aider !
+
+
+*/!\ Lorsque on aura récupéré assez de fond pour démarrer la V2 de HappyBlocks,
+le serveur sera fermé pendant 2 mois, pour tout refaire (Maps plugins etc...)
+Bien-sûr cela sera mille fois mieux, vu que on aura nos propres plugins dev par
+nous même et des maps gigantesques, et des tonnes de nouveaux mini-jeux.*
+
+
+En ésperant que la vente ce déroule comme convenue, sur ce, **bon jeux !**
 
 
 
