@@ -5,27 +5,27 @@ permalink: /Jeux/Speedrun/
 dark: true
 
 diapo:
-  - image: /img/Diapo/12.png
+  - image: /img/Diapo/12.jpg
     text: Parcour Mario
     button:
         text: "Vidéo Présentation"
         link: "https://youtu.be/P5rQAejy_QQ"
         icon: "arrow-right-bold-hexagon-outline"
 
-  - image: /img/Diapo/SR1.png
+  - image: /img/Diapo/SR1.jpg
     text: Parcour Mario
     subtext: Salle d'attente
 
-  - image: /img/Diapo/SR5.png
+  - image: /img/Diapo/SR5.jpg
     text: Parcour Mario
 
-  - image: /img/Diapo/SR3.png
+  - image: /img/Diapo/SR3.jpg
     text: Parcour Nyan-Cat
 
-  - image: /img/Diapo/SR2.png
+  - image: /img/Diapo/SR2.jpg
     text: Parcour Nyan-Cat
 
-  - image: /img/Diapo/SR4.png
+  - image: /img/Diapo/SR4.jpg
     text: Circuit Sonic
 ---
 

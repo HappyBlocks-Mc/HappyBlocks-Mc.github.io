@@ -5,7 +5,7 @@ permalink: /Jeux/SkyWars/
 dark: true
 
 diapo:
-  - image: /img/Diapo/Skywars/03.png
+  - image: /img/Diapo/Skywars/03.jpg
     text: Plus de 10 maps !
     subtext: Toutes différentes !
     button:
@@ -13,11 +13,11 @@ diapo:
         link: "https://www.youtube.com/watch?v=P5rQAejy_QQ"
         icon: "arrow-right-bold-hexagon-outline"
 
-  - image: /img/Diapo/Skywars/03.png
+  - image: /img/Diapo/Skywars/03.jpg
 
-  - image: /img/Diapo/Skywars/03.png
+  - image: /img/Diapo/Skywars/03.jpg
 
-  - image: /img/Diapo/Skywars/03.png
+  - image: /img/Diapo/Skywars/03.jpg
 ---
 
 # SkyWars
