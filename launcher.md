@@ -21,6 +21,9 @@ Version disponible : BETA BUILD *(05/06/2017)*
 Version en cours :
 1.8.9, Optifine, CustomMenu, paramètres conseillés pour jouer sur nos serveurs, premium seulement.
 
+Disponible sur github : (open-source GPL_3.0)
+[Github repo](https://github.com/HappyBlocks-Mc/Launcher)
+
 ## Code erreur :
 
  1. Erreur 01 : "Erreur, veuiller entrer un pseudo et un mot de passe valides." -> Entrer dans les champs correspondants votre compte Minecraft Premium.
