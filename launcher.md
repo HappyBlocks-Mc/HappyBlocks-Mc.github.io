@@ -9,10 +9,17 @@ dark: true
 
 Vous voulez jouer sur HappyBlocks avec un Minecraft optimiser et personalisé ? Télécharger le launcher suivant en cliquant sur le lien correspondant à votre système d'exploitation !
 
-Version disponible : BETA BUILD
- 1. Linux **http://adf.ly/1b4xvg**
- 2. Mac **http://adf.ly/1b4xnp** ---> Build en cours
- 3. Windows **http://adf.ly/1b4xzA**
+Version disponible : BETA BUILD *(05/06/2017)*
+ 1. [Linux](http://adf.ly/1b4xvg)
+ 2. [Mac](http://adf.ly/1b4xnp) ---> Build en cours
+ 3. [Windows](http://adf.ly/1b4xzA)
+
+**==========================================================**
+![Image du launcher](/img/launcher.png)
+**==========================================================**
+
+Version en cours :
+1.8.9, Optifine, CustomMenu, paramètres conseillés pour jouer sur nos serveurs, premium seulement.
 
 ## Code erreur :
 
