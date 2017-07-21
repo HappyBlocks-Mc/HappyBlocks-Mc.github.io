@@ -18,10 +18,10 @@ Version disponible : BETA BUILD *(05/06/2017)*
 ![Image du launcher](/img/launcher.png)
 **==========================================================**
 
-Version en cours :
+### Version en cours :
 1.8.9, Optifine, CustomMenu, paramètres conseillés pour jouer sur nos serveurs, premium seulement.
 
-Disponible sur github : (open-source GPL_3.0)
+### Disponible sur github : *(open-source GPL_3.0)*
 [Github repo](https://github.com/HappyBlocks-Mc/Launcher)
 
 ## Code erreur :
