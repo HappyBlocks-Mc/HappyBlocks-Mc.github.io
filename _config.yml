@@ -60,6 +60,8 @@ navigation:
           - text: Crédits
             link: /Credits/
 
+          - text: Status
+            link: /status/
 background:
     - image: /img/Backgrounds/01.jpg
       bright: true
