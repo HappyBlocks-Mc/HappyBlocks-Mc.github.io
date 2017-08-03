@@ -1,7 +1,7 @@
 ---
 layout: iframe
-title: Status - Happyblocks
-permalink: /status/
+title: Statut - Happyblocks
+permalink: /statut/
 
 iframe_url: "http://status.happyblocks.info"
 ---
