@@ -101,51 +101,35 @@ diapo:
         link: "/Jeux/Faction/"
         icon: "arrow-right-bold-hexagon-outline"
 games:
-  - image: img/Vignettes/pvpsoup.jpg
-    text: PvP Soup
-    subtext: "Choisissez un kit pour devenir le roi de l'arène dans une bataille où il n'y a qu'un seul gagnant !"
-    link: "/Jeux/PvPSoup/"
-
-  - image: img/Vignettes/creatif.jpg
-    text: Créatif
-    subtext: Laissez libre cour à votre imagination et partager vos créations à vos amis !
-    link: "/Jeux/Creatif/"
-
-  - image: img/Vignettes/skywars.jpg
-    text: SkyWars
-    subtext: Élaborez votre stratégie, prenez le contrôle des îles et restez en vie  !
-    link: "/Jeux/SkyWars/"
-
   - image: img/Vignettes/withermaze.jpg
     text: WitherMaze
     subtext: Trouvez l'entrée de la grotte du Wither dans un labyrinthe et terrassez-le !
-    badge: Seulement sur HappyBlocks !
-    progress: 60%
+    badge: En cours !
+    progress: 0%
     link: /Jeux/WitherMaze/
 
   - image: img/Vignettes/SR2.jpg
     text: Speedrun
     subtext: Courez le plus vite possible !
-    badge: Seulement sur HappyBlocks !
-    progress: 70%
+    badge: En cours!
+    progress: 0%
     link: /Jeux/Speedrun/
-
-  - image: img/Vignettes/faction.jpg
-    text: Faction
-    subtext: Créez votre armée de joueurs et conquérissez les territoires sur votre chemin pour devenir la meilleur faction !
-    link: "/Jeux/Faction/"
 
   - image: img/Vignettes/fnaf.jpg
     text: Five Night's At Freddy's In Minecraft
     subtext: Cachez-vous et défendez-vous face aux animatronics qui ne veulent qu'une seul chose, votre mort !
-    badge: Seulement sur HappyBlocks !
+    badge: En cours !
+    progress: 0%
     link: "/Jeux/Fnaf/"
 
-  - image: img/Vignettes/P1.jpg
-    text: Paintball
-    badge: Seulement sur HappyBlocks !
-    subtext: Vous aimez le cache-cache ? Et bien ce jeu est fait pour vous ! Lancez des boules de neige sur les joueurs !
-    link: "/Jeux/Paintball/"
+  - image: img/Vignettes/comingsoon.jpg
+    text: À venir
+    link: "/404"    
+
+  - image: img/Vignettes/comingsoon.jpg
+    text: À venir
+    link: "/404"    
+
 features:
   - icon: calendar-today
     text: L'actualité
@@ -211,33 +195,33 @@ Mais bien sûr, il existe des jeux qui peuvent êtres joués seuls, donc vous av
 
 ## Informations & Actualités
 
-**Le serveur faction est mort pour cause de manque de fond...**
+**/!\ HappyBlocks est actuellement FERME !**
+
+Pendant 3 mois minimum nos serveurs ferment leurs portes pour cause de la mise en place de la V2 de HappyBlocks
+Nous avons organiser une GRANDE vente de t-shirt pour générer des fonds et rénumérer une vrai équipe de professionnel :
+- La majorité des maps seront créées par des équipes de Builders
+- Les Plugins seront développés par des développeurs *freelance* qui ont déjà fait leurs preuves
+- Il n'y aura plus que des mini-jeux **originaux**
+
+En conséquence les autres jeux : "PvP Soup; Faction; SkyWars ect." sont **effacés**
+Bien sûr, des avantages seront distribués aux joueurs réguliers de HappyBlocks V1 pour le temps passé sur nos serveurs
+et le soutien apporté par tout les joueurs de la communauté *"du plus rigolo de tout les cubes !"*
 
 
-Nous avons organiser une GRANDE vente de t-shirt pour générer des fonds :
-Cela va permettre de fermer HappyBlocks, pour commencer la V2 de HappyBlocks,
-vous pouvez voir ici les modifications qui vont être effectuées :
+Vous pouvez voir ici les modifications qui vont être effectuées plus en détails:
 
 
 --> [Changelog](https://goo.gl/YtHkyS)
 
+Toute l'équipe vous souhaite d'exellentes futures parties sur nos serveurs !
 
-Le nombre de nouveaux joueurs reste stable depuis un mois (1 tous les deux jours),
-ce qui n'est pas assez pour permettre la survie de votre serveur, dans ce cas là,
-faites un maximum de pub pour nous aider !
+**Merci de votre compréhension,**
 
-
-*/!\ Lorsque on aura récupéré assez de fond pour démarrer la V2 de HappyBlocks,
-le serveur sera fermé pendant 2 mois, pour tout refaire (Maps plugins etc...)
-Bien-sûr cela sera mille fois mieux, vu que on aura nos propres plugins dev par
-nous même et des maps gigantesques, et des tonnes de nouveaux mini-jeux.*
-
-
-En ésperant que la vente ce déroule comme convenue, sur ce, **bon jeux !**
+ HappyBlocks Team
 
 
 
-## Mini-jeux disponibles
+## Mini-jeux Exclusifs
 
 {% include games.html content=page.games %}
 
