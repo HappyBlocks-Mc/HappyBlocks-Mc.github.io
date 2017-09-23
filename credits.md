@@ -32,14 +32,6 @@ team:
         url: "https://www.facebook.com/profile.php?id=100010175804819"
         background: "#3b5998"
 
-  - name: Eldras
-    desc: "**Admin du serveur**"
-    image: img/Credits/Eldras.png
-    button:
-      - icon: youtube-play
-        url: "https://www.youtube.com/channel/UCwezbasw1Ex9eFPaioIkKDg"
-        background: "#e52d27"
-
   - name: Squizzie
     desc: "**Administrateur du serveur**, *Faction* et *Skyblock*"
     image: img/Credits/squizzie.jpg
@@ -54,14 +46,6 @@ team:
       - icon: steam
         url: "https://steamcommunity.com/id/Pizzacus/"
         background: "#000"
-
-  - name: AquaKill
-    desc: Modérateur du Serveur
-    image: img/Credits/aquakill.jpg
-    button:
-      - icon: youtube-play
-        url: "https://www.youtube.com/channel/UCGj0dKoh4-PYEFZ92aIqnTw"
-        background: "#e52d27"
 
   - name: Lukax
     desc: Modérateur du Serveur
