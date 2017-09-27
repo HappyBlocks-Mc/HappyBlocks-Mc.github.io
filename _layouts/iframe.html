@@ -10,6 +10,7 @@
 
 	{% include header.html sticky=true %}
 	<iframe class="fullscreen-iframe" src="{% if page.iframe_link %}{{ page.iframe_link | relative_url }}{% else %}{{ page.iframe_url | default: "#!" }}{% endif %}"></iframe>
+	{% include scripts.html %}
 
 </body>
 

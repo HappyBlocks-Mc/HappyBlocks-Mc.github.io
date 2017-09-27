@@ -70,7 +70,7 @@ document.body.onmousemove = function (event) {
 }
 
 function updateBackground() {
-	if (window.innerWidth > 800) {
+	if (window.innerWidth > 800 && backgroundContainer) {
 		var translateX = -(x - (window.innerWidth / 2)) / window.innerWidth * 15 + "px",
 		translateY = -(y - (window.innerHeight / 2)) / window.innerHeight * 15 + "px";
 	
