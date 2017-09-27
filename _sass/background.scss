@@ -52,3 +52,10 @@
 .background-overlay-dark {
 	background: url("/assets/background_transparent_dark.png");
 }
+
+@media (max-width: 800px) {
+	.background {
+		animation-name: none;
+		-webkit-animation-name: none;
+	}
+}
