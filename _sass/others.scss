@@ -151,7 +151,7 @@ a:visited {
 		letter-spacing: 2px;
 		text-transform: uppercase;
 		margin: 1.5em auto 5px;
-		width: 650px;
+		max-width: 650px;
 
 		&::after {
 			content: "";
