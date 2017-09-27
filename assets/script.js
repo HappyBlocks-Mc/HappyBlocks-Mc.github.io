@@ -64,16 +64,18 @@ y = 0;
 
 backgroundContainer = document.getElementById("background");
 
-document.body.onmousemove = function (e) {
+document.body.onmousemove = function (event) {
 	x = event.clientX;
 	y = event.clientY;
 }
 
 function updateBackground() {
-	var translateX = -(x - (window.innerWidth / 2)) / window.innerWidth * 15 + "px",
-	translateY = -(y - (window.innerHeight / 2)) / window.innerHeight * 15 + "px";
-
-	backgroundContainer.style.transform = "translate(" + translateX + ", " + translateY + ")" // Translate is the least laggy way to do this thing
+	if (window.innerWidth > 800) {
+		var translateX = -(x - (window.innerWidth / 2)) / window.innerWidth * 15 + "px",
+		translateY = -(y - (window.innerHeight / 2)) / window.innerHeight * 15 + "px";
+	
+		backgroundContainer.style.transform = "translate(" + translateX + ", " + translateY + ")" // Translate is the least laggy way to do this thing
+	}
 
 	window.requestAnimationFrame(updateBackground);
 };
