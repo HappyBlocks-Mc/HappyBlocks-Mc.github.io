@@ -57,5 +57,13 @@
 	.background {
 		animation-name: none;
 		-webkit-animation-name: none;
+
+		&:not(:first-child) {
+			display: none;
+
+			.background-slide {
+				background: none !important;
+			}
+		}
 	}
 }
