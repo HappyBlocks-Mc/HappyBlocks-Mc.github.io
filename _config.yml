@@ -32,7 +32,7 @@ navigation:
       url: http://happyblocks.info/forum
 
     - text: Boutique
-      url: http://happyblocks.info/boutique
+      url: http://happyblocks.info/shop
 
     - text: Stats
       url: http://happyblocks.info/stats
@@ -47,9 +47,9 @@ navigation:
 
           - text: Dons
             link: /dons/
-
-          - text: T-Shirt
-            link: /shop/
+#
+#          - text: T-Shirt
+#            link: /shop/
 
           - text: Discord
             url: http://discord.happyblocks.info/
