@@ -33,7 +33,7 @@ team:
         background: "#3b5998"
 
   - name: Squizzie
-    desc: "**En attente d'approbation**,
+    desc: "**En attente d'approbation**"
     image: img/Credits/squizzie.jpg
 
   - name: Pizzacus
@@ -71,7 +71,6 @@ team:
 HappyBlocks utilise les technologies suivantes:
 
 Police: [Ubuntu](http://font.ubuntu.com/) (Utilisée un peu partout et sur les versiones récentes du logo)
-
 
 Technologies utilisées sur le site web:
  * [Jekyll](http://jekyllrb.com)
