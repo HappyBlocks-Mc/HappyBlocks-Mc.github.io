@@ -5,7 +5,7 @@ permalink: /vote/
 dark: true
 ---
 
-## Votes - HappyBlocks
+## Vote - HappyBlocks
 
 # Choisissez votre serveur pour voter :
 
@@ -15,7 +15,7 @@ dark: true
  2. **FNAF** :
  {% include button.html link="http://fnafvote.happyblocks.info" text="Fnaf" icon="minecraft" %}
  3. **Speedrun** :
-  {% include button.html link="http://srvote.happyblocks.info" text="Speedrun" icon="hexagon" %}
+  {% include button.html link="http://srvote.happyblocks.info" text="Speedrun" icon="speedometer" %}
 
 
 
