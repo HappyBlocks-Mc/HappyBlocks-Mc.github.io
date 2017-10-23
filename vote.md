@@ -10,18 +10,18 @@ dark: true
 # Choisissez votre serveur pour voter :
 
 
- 1. **Faction** :
- {% include button.html link="http://facvote.happyblocks.info" text="Faction" icon="sword" %}
- 2. **Lobby** :
- {% include button.html link="http://lobvote.happyblocks.info" text="Lobby" icon="minecraft" %}
- 3. **Opprison** :
-  {% include button.html link="http://opvote.happyblocks.info" text="Opprison" icon="hexagon" %}
+ 1. **WitherMaze** :
+ {% include button.html link="http://wmvote.happyblocks.info" text="WitherMaze" icon="sword" %}
+ 2. **FNAF** :
+ {% include button.html link="http://fnafvote.happyblocks.info" text="Fnaf" icon="minecraft" %}
+ 3. **Speedrun** :
+  {% include button.html link="http://srvote.happyblocks.info" text="Speedrun" icon="hexagon" %}
 
 
 
 ## Liste des récompenses :
 
-**Lobby / Faction / Opprison**
+**WitherMaze / FNAF / Speedrun**
  1. x1 Clé Vote (Ourvir le coffre "Vote" qui se trouve au spawn)
 
 

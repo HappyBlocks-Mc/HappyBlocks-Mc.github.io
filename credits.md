@@ -5,7 +5,7 @@ permalink: /Credits/
 
 team:
   - name: StoneSet
-    desc: "**Fondateur du serveur**"
+    desc: "**Fondateur du serveur**, *Maintenance serveurs, plugins, sql*"
     image: img/Credits/stoneset.png
     button:
       - icon: twitter
@@ -19,7 +19,7 @@ team:
         background: "#111"
 
   - name: Wabfall
-    desc: "**Fondateur du serveur**, *WitherMaze*"
+    desc: "**Fondateur du serveur**, *Builder WitherMaze*"
     image: img/Credits/wabfall.jpg
     button:
       - icon: twitter
@@ -33,7 +33,7 @@ team:
         background: "#3b5998"
 
   - name: Squizzie
-    desc: "**Administrateur du serveur**, *Faction* et *Skyblock*"
+    desc: "**En attente d'approbation**,
     image: img/Credits/squizzie.jpg
 
   - name: Pizzacus
@@ -52,7 +52,7 @@ team:
     image: img/Credits/lukax.jpg
 
   - name: TineTine61
-    desc: Builder
+    desc: Builder FNAF
     image: img/Credits/tinetine.png
     button:
       - icon: facebook
@@ -72,10 +72,12 @@ HappyBlocks utilise les technologies suivantes:
 
 Police: [Ubuntu](http://font.ubuntu.com/) (Utilisée un peu partout et sur les versiones récentes du logo)
 
+{% comment %}
 Plugins serveur Minecraft:
  * [Plugins Faction](/faction) --> Une partie des plugins listé
  * [Plugins Opprison](/prison) --> Une partie des plugins listé
  * [Plugins BungeeCord](/bungee) --> Une partie des plugins listé
+{% endcomment %}
 
 Technologies utilisées sur le site web:
  * [Jekyll](http://jekyllrb.com)

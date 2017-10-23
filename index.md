@@ -5,14 +5,6 @@ diapo:
     text: Bienvenue sur HappyBlocks !
     subtext: "Serveurs Minecraft disposant de nombreux jeux !"           
 
-  - image: img/Diapo/P1.jpg
-    text: Paintball
-    subtext: "Attaquez vos amis avec des boules de neige !"
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/Paintball/"
-        icon: "arrow-right-bold-hexagon-outline"
-
   - image: img/Diapo/12.jpg
     text: Speedrun
     subtext: "Courez le plus vite possible !"
@@ -27,54 +19,6 @@ diapo:
     button:
         text: "En savoir plus"
         link: "/Jeux/Fnaf/"
-        icon: "arrow-right-bold-hexagon-outline"
-
-  - image: img/Diapo/02.jpg
-    text: PvP Soup
-    subtext: "L'arène où 4 environnements différents se croisent dans un lieu insolite pour combattre !"
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/PvPSoup/"
-        icon: "arrow-right-bold-hexagon-outline"
-
-  - image: img/Diapo/03.jpg
-    text: PvP Soup
-    subtext: "L'arène 2 vous emmène dans un lieu où achitecture et nature ne font qu'un pour devenir le roi de l'arène !"
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/PvPSoup/"
-        icon: "arrow-right-bold-hexagon-outline"
-
-  - image: img/Diapo/04.jpg
-    text: Créatif
-    subtext: "Regardez et inspirez-vous des créations des autres joueurs pour faire votre propre parcelle"
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/Creatif/"
-        icon: "arrow-right-bold-hexagon-outline"
-
-  - image: img/Diapo/05.jpg
-    text: SkyWars
-    subtext: "L'arène plaine vous fait découvrir un archipel composé d'îlots qui volent au-dessus du vide"
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/SkyWars/"
-        icon: "arrow-right-bold-hexagon-outline"
-
-  - image: img/Diapo/06.jpg
-    text: SkyWars
-    subtext: "L'arène Nether vous sombre dans les flammes de l'enfer..."
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/SkyWars/"
-        icon: "arrow-right-bold-hexagon-outline"
-
-  - image: img/Diapo/07.jpg
-    text: SkyWars
-    subtext: "L'arène Ender va vous en faire voir de toutes les couleurs avec le dragon prêt à vous détruire !"
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/SkyWars/"
         icon: "arrow-right-bold-hexagon-outline"
 
   - image: img/Diapo/082.jpg
@@ -93,33 +37,26 @@ diapo:
         link: "/Jeux/WitherMaze/"
         icon: "arrow-right-bold-hexagon-outline"
 
-  - image: img/Diapo/09.jpg
-    text: Faction
-    subtext: "C'est ici que tous les joueurs débutent et échangent pour devenir la meilleur faction !"
-    button:
-        text: "En savoir plus"
-        link: "/Jeux/Faction/"
-        icon: "arrow-right-bold-hexagon-outline"
 games:
   - image: img/Vignettes/withermaze.jpg
     text: WitherMaze
     subtext: Trouvez l'entrée de la grotte du Wither dans un labyrinthe et terrassez-le !
     badge: En cours !
-    progress: 0%
+    progress: 65%
     link: /Jeux/WitherMaze/
 
   - image: img/Vignettes/SR2.jpg
     text: Speedrun
     subtext: Courez le plus vite possible !
     badge: En cours!
-    progress: 0%
+    progress: 90%
     link: /Jeux/Speedrun/
 
   - image: img/Vignettes/fnaf.jpg
     text: Five Night's At Freddy's In Minecraft
     subtext: Cachez-vous et défendez-vous face aux animatronics qui ne veulent qu'une seul chose, votre mort !
     badge: En cours !
-    progress: 0%
+    progress: 75%
     link: "/Jeux/Fnaf/"
 
   - image: img/Vignettes/comingsoon.jpg
