@@ -34,7 +34,7 @@ diapo:
 
 Ce jeu necessite un ressource pack pour y jouer
 
-{% include button.html link="http://minecraft.happyblocks.info/fnaf.zip/" text="Cliquez ici pour le télécharger" icon="download" %}
+{% include button.html link="http://file.happyblocks.info/minecraft/fnaf.zip" text="Cliquez ici pour le télécharger" icon="download" %}
 
 [Cliquez ici](http://minecraft-fr.gamepedia.com/Tutoriels/Packs_de_ressources#Windows) pour apprendre comment l'installer
 
