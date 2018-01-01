@@ -3,5 +3,5 @@ layout: iframe
 title: Shop - Happyblocks
 permalink: /shop/
 
-iframe_url: "https://happylauncher.myriapulse.com/shop" 
+iframe_url: "https://shop.happyblocks.info/" 
 ---
