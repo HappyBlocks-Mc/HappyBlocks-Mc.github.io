@@ -3,5 +3,5 @@ layout: iframe
 title: Boutique - Happyblocks
 permalink: /boutique/
 
-iframe_url: "https://boutique.happyblocks.info"
+iframe_url: "/shop_proxy"
 ---
