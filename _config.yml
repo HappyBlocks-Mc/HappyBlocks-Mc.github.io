@@ -86,5 +86,5 @@ exclude:
     - Gemfile
     - Gemfile.lock
 safe: true
-include: 
-    - _redirects
+#include: 
+#    - _redirects
