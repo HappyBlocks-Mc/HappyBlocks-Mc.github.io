@@ -3,8 +3,8 @@
   <h3>The best Minecraft server in the world !</h3>
   <p>
     <a href="https://discord.gg/nd8epEU"><img src="https://discordapp.com/api/guilds/310180409541394432/embed.png"></a>
-    <a href="https://choosealicense.com/licenses/agpl-3.0/"><img src="https://github.com/HappyBlocks-Mc/HappyBlocks-Mc.github.io/licenseimg/agpl-3.0.svg" alt="License"/></a>
-    <a href="https://github.com/sindresorhus/xo"><img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" alt="Codestyle: XO"/></a>
+    <a href="https://choosealicense.com/licenses/agpl-3.0/"><img src="https://img.shields.io/aur/license/yaourt.svg" alt="License"/></a>
+	<a href=""><img src="https://img.shields.io/travis/USER/REPO/BRANCH.svg"/></a>
   </p>
 </div>
 
@@ -16,9 +16,9 @@ Welcome to the GitHub repository of HappyBlocks, the website of the happyBlocks 
 
 See the wiki for more information : https://github.com/HappyBlocks-Mc/HappyBlocks-Mc.github.io/wiki
 You will need :
-# 1. Ruby
-# 2. Jekyll
-# 3. Atom.io
+1. Ruby
+2. Jekyll
+3. Atom.io
 
 ```bash
 # 1. Clone this repository
