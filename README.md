@@ -5,7 +5,7 @@
     <a href="https://discord.gg/nd8epEU"><img src="https://discordapp.com/api/guilds/310180409541394432/embed.png"></a>
     <a href="https://choosealicense.com/licenses/agpl-3.0/"><img src="https://img.shields.io/aur/license/yaourt.svg" alt="License"/></a>
 	<a href=""><img src="https://img.shields.io/travis/rust-lang/rust/master.svg"/></a>
-	<a href=""><img src="https://img.shields.io/versioneye/d/ruby/rails.svg"/></a>
+	<a href=""><img src="https://img.shields.io/versioneye/d/ruby/rails.svg" alt="VersionEye"/></a>
   </p>
 </div>
 
