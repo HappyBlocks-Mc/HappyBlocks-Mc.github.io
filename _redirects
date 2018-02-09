@@ -1,1 +1,3 @@
-/shop_proxy/*  https://shop.happyblocks.info/:splat  200
+https://www.happyblocks.info/shop_proxy/*  https://shop.happyblocks.info/:splat  200
+https://discord.happyblocks.info  https://discord.gg/qKG79SZ
+https://status.happyblocks.info https://stats.uptimerobot.com/57XA4iYgB
