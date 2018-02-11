@@ -10,7 +10,7 @@
 </div>
 
 
-Welcome to the GitHub repository of HappyBlocks, the website of the happyBlocks Minecraft server !
+Welcome to the GitHub repository of HappyBlocks, the website of the HappyBlocks Minecraft server !
 
 
 ## Installation & modification
