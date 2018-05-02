@@ -59,6 +59,11 @@ if (Clipboard.isSupported()) {
 	})
 }
 
+document.getElementById('copy-key').innerText =
+	navigator.platform.toLowerCase().indexOf('mac') === 0
+		? '⌘V'
+		: 'Ctrl+V'
+
 var x = 0,
 y = 0;
 
