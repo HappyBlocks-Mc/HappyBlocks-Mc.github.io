@@ -19,7 +19,7 @@ Version disponible : RELEASE BUILD V.1.0.4 *(20/08/2018)*
 **==========================================================**
 
 ### Version en cours :
-1.8.9, Optifine, CustomMenu, paramètres conseillés pour jouer sur nos serveurs, premium seulement.
+1.9.4, Optifine, CustomMenu, paramètres conseillés pour jouer sur nos serveurs, premium seulement.
 
 ### Disponible sur github : *(open-source GPL_3.0)*
 [Github repo](https://github.com/HappyBlocks-Mc/Launcher)
