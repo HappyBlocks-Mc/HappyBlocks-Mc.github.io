@@ -9,7 +9,7 @@ dark: true
 
 Vous voulez jouer sur HappyBlocks avec un Minecraft optimiser et personalisé ? Télécharger le launcher suivant en cliquant sur le lien correspondant à votre système d'exploitation !
 
-Version disponible : RELEASE BUILD V.1.0.4 *(20/08/2018)*
+Version disponible : RELEASE BUILD V.1.0.5 *(21/08/2018)*
  1. [Linux](http://zipansion.com/36Pkl)
  2. [Mac](http://adf.ly/1b4xnp) ---> Build en cours
  3. [Windows](http://zipansion.com/36Pev)
