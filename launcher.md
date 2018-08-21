@@ -11,7 +11,7 @@ Vous voulez jouer sur HappyBlocks avec un Minecraft optimiser et personalisé ? 
 
 Version disponible : RELEASE BUILD V.1.0.5 *(21/08/2018)*
  1. [Linux](http://zipansion.com/36Pkl)
- 2. [Mac](http://adf.ly/1b4xnp) ---> Build en cours
+ 2. [Mac](http://zipansion.com/38wzr) (MacOSX - .app)
  3. [Windows](http://zipansion.com/36Pev)
 
 **==========================================================**
