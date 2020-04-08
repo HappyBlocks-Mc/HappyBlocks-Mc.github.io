@@ -32,7 +32,7 @@ bundle exec jekyll serve
 
 
 ```
-HappyBlocks is open-source, made with love ! 2019
+HappyBlocks is open-source, made with love ! 2020
 
 #### [Website](https://www.happyblocks.info/)
 #### [Wiki](https://github.com/HappyBlocks-Mc/HappyBlocks-Mc.github.io/wiki)
